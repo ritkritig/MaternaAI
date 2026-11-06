@@ -1,0 +1,752 @@
+district_id,district_name,state_name,state_code,region,anc4_or_more_pct,institutional_delivery_pct,skilled_birth_attendance_pct,postnatal_care_pct,ifa_100_days_pct,first_trimester_anc_pct,maternal_mortality_ratio_proxy,female_literacy_rate_pct,rural_population_pct,below_poverty_line_pct,phc_chc_density_per_100k,public_facility_delivery_share_pct,data_source,survey_year,completeness_score
+KL_001,Thiruvananthapuram,Kerala,KL,South,82.2,100.0,100.0,96.0,70.0,96.4,17.3,97.4,51.0,14.8,2.59,55.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_002,Kollam,Kerala,KL,South,56.2,90.2,90.1,85.6,49.2,72.4,78.7,84.9,67.9,28.2,2.16,83.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_003,Pathanamthitta,Kerala,KL,South,70.0,93.3,94.8,86.6,66.0,81.5,31.6,92.2,55.4,12.3,2.89,65.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_004,Alappuzha,Kerala,KL,South,82.8,100.0,100.0,94.3,62.8,87.3,10.0,99.0,52.4,18.1,2.01,55.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_005,Kottayam,Kerala,KL,South,74.9,99.8,99.7,88.3,60.9,85.4,45.6,90.9,56.8,17.4,2.3,73.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_006,Idukki,Kerala,KL,South,89.8,100.0,100.0,99.0,78.8,98.0,10.0,99.0,28.4,9.6,3.17,41.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_007,Ernakulam,Kerala,KL,South,72.3,99.6,100.0,99.0,65.8,86.4,11.0,99.0,53.2,19.2,2.56,59.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_008,Thrissur,Kerala,KL,South,84.3,100.0,100.0,94.7,75.6,95.0,10.0,99.0,37.5,10.2,2.61,43.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_009,Palakkad,Kerala,KL,South,78.5,100.0,99.7,94.2,65.7,81.3,22.2,95.4,65.9,24.5,2.71,61.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_010,Malappuram,Kerala,KL,South,72.6,97.0,97.4,85.6,64.0,76.9,51.8,96.2,56.7,20.1,2.55,71.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_011,Kozhikode,Kerala,KL,South,65.6,90.3,95.2,83.7,61.8,76.6,49.2,90.0,58.6,31.1,2.9,69.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_012,Wayanad,Kerala,KL,South,81.0,100.0,97.5,91.2,70.7,90.5,17.9,98.2,47.4,17.0,2.9,53.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_013,Kannur,Kerala,KL,South,96.0,100.0,100.0,99.0,84.3,98.0,10.0,99.0,39.4,22.0,3.17,36.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KL_014,Kasaragod,Kerala,KL,South,69.0,94.4,96.8,91.5,62.7,86.5,35.7,96.3,57.0,22.8,4.02,63.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_001,Chennai,Tamil Nadu,TN,South,73.8,94.1,97.2,87.9,53.8,70.4,59.4,72.2,64.4,32.6,2.7,73.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_002,Coimbatore,Tamil Nadu,TN,South,81.4,100.0,100.0,90.3,66.4,83.6,58.5,84.7,41.6,25.8,2.18,58.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_003,Madurai,Tamil Nadu,TN,South,99.1,100.0,100.0,97.2,68.6,81.6,51.8,79.9,46.3,28.4,2.38,67.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_004,Tiruchirappalli,Tamil Nadu,TN,South,67.7,86.8,91.2,85.7,48.4,64.8,86.5,71.2,62.9,39.3,2.7,78.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_005,Salem,Tamil Nadu,TN,South,99.5,100.0,100.0,99.0,81.6,89.8,10.0,92.7,38.8,15.1,2.06,31.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_006,Tirunelveli,Tamil Nadu,TN,South,81.8,97.6,93.9,91.3,65.7,78.9,50.1,74.4,63.2,39.1,2.28,72.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_007,Erode,Tamil Nadu,TN,South,73.1,86.2,93.4,86.4,50.2,79.2,57.2,73.0,59.7,29.6,3.25,78.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_008,Vellore,Tamil Nadu,TN,South,77.9,100.0,100.0,90.1,62.5,78.3,55.1,81.4,59.4,41.5,2.04,48.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_009,Thanjavur,Tamil Nadu,TN,South,82.0,99.3,97.4,90.4,59.0,76.7,67.5,79.6,49.3,30.6,3.0,66.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_010,Dindigul,Tamil Nadu,TN,South,83.7,100.0,100.0,96.8,66.7,83.7,55.5,81.1,49.3,26.9,2.51,59.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_011,Kanchipuram,Tamil Nadu,TN,South,91.1,100.0,100.0,98.0,67.0,85.5,34.3,84.2,48.0,35.9,2.23,44.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_012,Cuddalore,Tamil Nadu,TN,South,74.9,96.3,96.4,87.6,52.9,69.3,81.6,70.7,66.2,36.2,2.53,72.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_013,Villupuram,Tamil Nadu,TN,South,82.7,98.6,100.0,94.6,63.2,80.5,47.7,77.3,41.3,27.2,2.28,56.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_014,Dharmapuri,Tamil Nadu,TN,South,96.7,100.0,100.0,96.2,73.1,87.4,25.4,85.0,42.4,22.7,3.29,44.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_015,Nagapattinam,Tamil Nadu,TN,South,85.7,100.0,100.0,95.5,64.2,83.7,44.8,87.5,50.9,20.1,3.57,57.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_016,Tamil Nadu District 16,Tamil Nadu,TN,South,90.4,97.7,98.1,90.9,55.0,78.9,40.9,80.9,51.8,33.7,3.44,54.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_017,Tamil Nadu District 17,Tamil Nadu,TN,South,75.3,91.7,100.0,90.8,53.5,68.6,90.0,74.1,65.0,34.6,1.88,70.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_018,Tamil Nadu District 18,Tamil Nadu,TN,South,80.0,100.0,97.0,91.6,62.9,81.4,61.5,76.3,43.6,31.3,3.17,54.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_019,Tamil Nadu District 19,Tamil Nadu,TN,South,94.8,100.0,100.0,99.0,80.8,88.0,31.5,89.9,46.0,24.3,2.17,47.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_020,Tamil Nadu District 20,Tamil Nadu,TN,South,62.1,86.1,92.1,85.2,54.9,69.2,112.2,65.6,57.2,43.2,2.58,80.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_021,Tamil Nadu District 21,Tamil Nadu,TN,South,63.3,86.9,93.3,82.6,42.8,65.5,86.8,67.8,72.9,46.9,2.16,81.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_022,Tamil Nadu District 22,Tamil Nadu,TN,South,74.1,93.0,95.1,84.2,64.0,74.9,63.0,75.7,57.4,37.3,2.5,74.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_023,Tamil Nadu District 23,Tamil Nadu,TN,South,74.7,96.2,91.7,84.6,63.6,81.6,62.7,78.2,57.4,38.1,3.99,65.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_024,Tamil Nadu District 24,Tamil Nadu,TN,South,67.5,95.8,94.0,82.8,52.3,70.3,95.3,76.8,59.2,34.4,3.27,66.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_025,Tamil Nadu District 25,Tamil Nadu,TN,South,96.0,100.0,100.0,96.8,68.0,91.6,43.4,83.6,42.2,21.7,2.31,38.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_026,Tamil Nadu District 26,Tamil Nadu,TN,South,74.0,93.2,96.9,87.3,54.7,71.4,66.1,76.9,61.0,35.0,2.16,74.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_027,Tamil Nadu District 27,Tamil Nadu,TN,South,68.9,90.3,94.6,81.2,42.4,64.3,91.3,71.0,60.4,30.1,2.89,79.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_028,Tamil Nadu District 28,Tamil Nadu,TN,South,68.6,94.2,92.7,84.6,57.0,70.4,90.7,69.4,63.9,28.3,3.25,69.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_029,Tamil Nadu District 29,Tamil Nadu,TN,South,85.4,100.0,100.0,94.9,65.8,86.7,44.4,83.6,44.9,22.8,2.38,55.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_030,Tamil Nadu District 30,Tamil Nadu,TN,South,78.6,100.0,100.0,88.7,63.7,75.7,38.8,74.1,45.6,31.9,2.44,75.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_031,Tamil Nadu District 31,Tamil Nadu,TN,South,83.2,100.0,95.2,94.1,67.6,76.7,60.5,82.2,46.9,37.9,2.88,57.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_032,Tamil Nadu District 32,Tamil Nadu,TN,South,81.7,97.9,100.0,90.5,64.2,79.5,54.3,81.8,54.8,27.9,2.37,51.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_033,Tamil Nadu District 33,Tamil Nadu,TN,South,78.7,99.5,95.5,92.2,64.2,78.2,86.3,74.6,48.9,39.9,1.8,69.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_034,Tamil Nadu District 34,Tamil Nadu,TN,South,81.7,95.8,100.0,91.9,62.1,81.5,61.0,79.8,48.1,38.0,2.81,68.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_035,Tamil Nadu District 35,Tamil Nadu,TN,South,93.0,100.0,100.0,99.0,78.4,83.6,37.3,87.7,36.7,11.4,2.14,45.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_036,Tamil Nadu District 36,Tamil Nadu,TN,South,77.3,95.9,98.9,97.2,61.6,75.1,49.4,79.0,37.5,24.8,2.58,63.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_037,Tamil Nadu District 37,Tamil Nadu,TN,South,99.5,100.0,100.0,99.0,76.2,90.6,13.0,90.2,36.1,15.0,2.34,37.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TN_038,Tamil Nadu District 38,Tamil Nadu,TN,South,74.1,97.2,96.8,93.6,47.4,79.7,80.9,70.2,54.2,30.1,2.43,61.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_001,Bengaluru Urban,Karnataka,KA,South,67.5,95.0,96.4,84.1,38.5,65.9,99.3,63.3,73.8,46.0,2.29,77.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_002,Bengaluru Rural,Karnataka,KA,South,73.3,100.0,96.4,91.6,57.0,75.9,63.1,71.8,62.5,35.9,2.32,61.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_003,Mysuru,Karnataka,KA,South,59.9,89.7,96.2,80.1,53.0,63.3,104.9,69.9,66.6,43.1,2.15,68.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_004,Belagavi,Karnataka,KA,South,80.6,100.0,100.0,92.8,60.8,75.3,28.5,81.4,53.4,29.1,2.32,48.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_005,Dharwad,Karnataka,KA,South,63.5,95.3,92.9,86.0,40.4,74.3,86.5,70.9,70.6,46.6,3.15,55.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_006,Ballari,Karnataka,KA,South,57.7,91.7,93.8,78.9,42.5,64.1,89.8,61.8,67.0,41.9,1.79,81.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_007,Kalaburagi,Karnataka,KA,South,71.9,94.4,94.3,80.2,47.0,66.7,91.4,75.6,68.5,34.1,2.92,71.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_008,Dakshina Kannada,Karnataka,KA,South,83.7,100.0,100.0,94.7,67.1,87.9,37.5,78.1,43.6,28.0,2.29,42.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_009,Udupi,Karnataka,KA,South,67.6,98.8,99.6,90.1,57.0,77.9,70.6,73.9,51.7,34.8,2.59,59.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_010,Shivamogga,Karnataka,KA,South,56.2,94.6,92.4,83.2,41.8,66.6,108.3,64.5,72.1,44.3,2.19,73.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_011,Tumakuru,Karnataka,KA,South,71.0,100.0,96.0,88.1,51.2,80.2,66.5,77.4,52.2,35.9,2.52,57.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_012,Raichur,Karnataka,KA,South,78.0,100.0,100.0,91.7,57.5,85.2,64.5,77.4,50.8,24.3,2.27,41.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_013,Koppal,Karnataka,KA,South,59.6,92.7,94.2,87.1,39.8,71.3,88.5,67.4,72.8,46.6,1.89,73.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_014,Yadgir,Karnataka,KA,South,76.0,100.0,97.7,88.4,52.5,75.4,50.5,79.4,64.6,29.6,2.14,56.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_015,Karnataka District 15,Karnataka,KA,South,68.3,95.2,91.5,89.4,54.3,68.9,76.5,70.9,67.5,50.7,2.7,65.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_016,Karnataka District 16,Karnataka,KA,South,59.2,91.6,94.3,88.9,43.2,70.1,86.4,72.3,80.4,41.1,2.16,75.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_017,Karnataka District 17,Karnataka,KA,South,83.1,100.0,99.1,92.7,60.8,80.9,60.1,80.1,61.8,35.7,3.02,50.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_018,Karnataka District 18,Karnataka,KA,South,76.3,95.3,98.9,87.1,52.5,79.2,68.1,74.0,53.4,37.4,2.74,71.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_019,Karnataka District 19,Karnataka,KA,South,69.0,96.4,100.0,85.7,50.1,74.3,78.0,70.1,64.8,35.3,2.88,64.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_020,Karnataka District 20,Karnataka,KA,South,69.0,89.8,93.3,85.1,52.3,69.8,77.7,74.9,59.8,37.7,1.41,65.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_021,Karnataka District 21,Karnataka,KA,South,64.6,93.4,92.1,78.6,47.1,70.2,90.3,73.0,64.2,34.7,1.71,72.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_022,Karnataka District 22,Karnataka,KA,South,72.0,99.0,95.2,93.0,52.8,79.2,67.8,75.8,62.3,38.8,2.6,65.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_023,Karnataka District 23,Karnataka,KA,South,75.0,97.6,100.0,86.5,60.0,75.3,47.5,74.6,56.4,31.5,2.78,55.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_024,Karnataka District 24,Karnataka,KA,South,53.2,82.3,86.3,80.3,40.3,64.2,99.0,62.6,76.5,56.7,1.88,87.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_025,Karnataka District 25,Karnataka,KA,South,69.0,96.7,91.5,85.7,46.9,69.7,70.5,77.3,66.4,38.7,2.14,71.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_026,Karnataka District 26,Karnataka,KA,South,78.9,99.1,100.0,93.3,61.8,81.8,61.3,76.6,60.6,44.9,2.49,44.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_027,Karnataka District 27,Karnataka,KA,South,86.2,100.0,100.0,95.2,66.0,86.3,23.9,82.6,58.2,31.8,3.18,39.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_028,Karnataka District 28,Karnataka,KA,South,74.0,94.6,97.2,83.1,53.8,77.0,60.6,78.5,54.3,32.5,1.74,64.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_029,Karnataka District 29,Karnataka,KA,South,83.5,100.0,100.0,95.4,67.5,86.4,13.0,86.8,54.8,27.7,2.12,42.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_030,Karnataka District 30,Karnataka,KA,South,71.1,96.2,98.3,92.3,55.4,74.6,72.5,66.0,65.1,41.5,1.62,50.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+KA_031,Karnataka District 31,Karnataka,KA,South,63.9,90.3,93.3,80.9,43.5,66.7,82.1,69.0,69.3,40.4,1.7,84.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_001,Andhra Pradesh District 1,Andhra Pradesh,AP,South,81.9,98.9,99.4,99.0,74.7,88.6,38.7,74.0,62.3,36.5,2.21,49.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_002,Andhra Pradesh District 2,Andhra Pradesh,AP,South,82.3,100.0,99.6,93.0,64.3,89.4,33.2,75.6,50.1,31.4,3.24,57.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_003,Andhra Pradesh District 3,Andhra Pradesh,AP,South,69.2,89.0,91.5,89.6,58.2,76.6,78.3,64.4,79.5,60.8,2.46,72.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_004,Andhra Pradesh District 4,Andhra Pradesh,AP,South,81.3,100.0,100.0,92.0,63.7,88.5,26.8,70.6,65.0,41.7,2.27,59.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_005,Andhra Pradesh District 5,Andhra Pradesh,AP,South,85.1,99.3,98.0,94.1,74.7,80.7,42.9,73.0,65.5,37.8,2.92,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_006,Andhra Pradesh District 6,Andhra Pradesh,AP,South,74.5,92.5,92.7,93.0,62.1,77.9,23.0,65.7,65.2,48.6,3.04,57.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_007,Andhra Pradesh District 7,Andhra Pradesh,AP,South,98.5,100.0,99.3,99.0,78.1,90.3,10.0,88.3,59.3,28.9,2.55,38.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_008,Andhra Pradesh District 8,Andhra Pradesh,AP,South,83.3,99.8,99.7,90.6,71.4,81.2,27.1,69.8,58.8,45.7,2.38,56.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_009,Andhra Pradesh District 9,Andhra Pradesh,AP,South,59.1,92.3,88.6,80.6,57.2,69.6,80.8,56.0,80.0,46.9,2.44,81.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_010,Andhra Pradesh District 10,Andhra Pradesh,AP,South,77.7,96.8,100.0,89.4,64.9,82.4,52.0,68.6,70.8,39.9,1.98,51.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_011,Andhra Pradesh District 11,Andhra Pradesh,AP,South,86.4,100.0,100.0,99.0,78.7,96.6,10.0,79.1,52.2,24.4,3.27,40.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_012,Andhra Pradesh District 12,Andhra Pradesh,AP,South,82.7,98.4,99.1,92.4,71.0,89.0,57.6,70.4,58.5,51.2,2.26,47.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_013,Andhra Pradesh District 13,Andhra Pradesh,AP,South,95.7,100.0,100.0,99.0,77.6,91.3,10.0,74.6,54.0,34.2,1.75,35.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_014,Andhra Pradesh District 14,Andhra Pradesh,AP,South,72.4,98.2,100.0,84.3,70.0,87.4,25.3,74.9,70.6,38.5,1.98,60.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_015,Andhra Pradesh District 15,Andhra Pradesh,AP,South,78.4,94.0,97.7,85.2,66.9,79.7,34.5,72.7,75.2,36.2,2.57,57.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_016,Andhra Pradesh District 16,Andhra Pradesh,AP,South,86.7,100.0,100.0,95.7,74.7,89.8,16.5,77.4,65.5,28.8,1.95,34.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_017,Andhra Pradesh District 17,Andhra Pradesh,AP,South,76.4,92.4,99.9,99.0,70.6,87.8,34.8,71.1,70.9,42.8,2.17,55.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_018,Andhra Pradesh District 18,Andhra Pradesh,AP,South,73.7,93.0,92.6,87.4,58.2,78.2,59.6,68.2,78.1,49.8,2.29,76.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_019,Andhra Pradesh District 19,Andhra Pradesh,AP,South,80.7,95.0,96.5,91.0,68.5,84.8,33.4,73.3,65.6,38.7,2.52,41.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_020,Andhra Pradesh District 20,Andhra Pradesh,AP,South,67.4,89.0,94.9,89.0,64.6,75.8,83.6,63.9,76.2,46.6,2.02,68.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_021,Andhra Pradesh District 21,Andhra Pradesh,AP,South,77.9,97.0,98.7,93.5,71.9,78.4,10.6,72.3,62.2,32.2,2.2,47.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_022,Andhra Pradesh District 22,Andhra Pradesh,AP,South,83.2,97.0,92.6,90.2,72.4,80.6,35.3,71.5,69.0,35.8,2.35,60.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_023,Andhra Pradesh District 23,Andhra Pradesh,AP,South,74.5,93.0,95.3,85.7,64.9,86.6,32.0,62.9,79.0,46.3,2.21,68.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_024,Andhra Pradesh District 24,Andhra Pradesh,AP,South,77.1,95.7,93.5,92.5,59.8,80.8,61.9,69.2,83.1,42.7,2.31,70.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_025,Andhra Pradesh District 25,Andhra Pradesh,AP,South,77.2,93.8,93.5,86.3,56.3,74.9,74.3,62.9,70.6,53.1,2.54,72.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AP_026,Andhra Pradesh District 26,Andhra Pradesh,AP,South,81.7,96.5,100.0,93.1,73.3,92.3,29.8,75.4,73.3,43.8,2.01,48.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_001,Telangana District 1,Telangana,TG,South,81.2,99.6,100.0,92.6,62.1,79.2,24.6,62.2,69.2,46.1,1.6,55.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_002,Telangana District 2,Telangana,TG,South,79.1,100.0,97.3,89.0,64.9,81.3,55.5,69.8,62.3,45.7,2.4,57.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_003,Telangana District 3,Telangana,TG,South,64.0,89.7,91.4,83.3,56.7,72.6,75.2,64.6,72.7,49.4,3.27,65.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_004,Telangana District 4,Telangana,TG,South,81.3,100.0,100.0,91.4,62.3,84.2,16.2,69.0,58.0,41.1,2.85,43.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_005,Telangana District 5,Telangana,TG,South,81.6,97.2,99.0,90.3,61.7,85.0,31.8,70.3,53.1,40.3,1.9,52.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_006,Telangana District 6,Telangana,TG,South,86.9,100.0,100.0,92.4,67.4,85.8,20.2,74.4,60.1,36.8,1.85,48.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_007,Telangana District 7,Telangana,TG,South,97.9,100.0,100.0,99.0,79.7,90.6,10.0,77.6,44.2,32.4,1.9,41.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_008,Telangana District 8,Telangana,TG,South,79.5,94.2,97.5,86.3,54.7,80.6,39.6,71.6,63.5,48.2,1.64,66.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_009,Telangana District 9,Telangana,TG,South,77.8,96.8,98.9,94.2,73.4,88.7,24.3,66.4,57.1,42.3,1.3,52.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_010,Telangana District 10,Telangana,TG,South,64.1,96.5,94.5,82.2,46.5,77.4,74.5,69.0,62.5,42.8,1.83,59.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_011,Telangana District 11,Telangana,TG,South,78.8,100.0,98.5,88.9,60.3,79.5,33.6,69.4,63.3,47.9,1.74,54.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_012,Telangana District 12,Telangana,TG,South,70.8,90.1,99.7,90.1,60.2,80.4,49.7,61.8,58.6,38.1,2.46,62.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_013,Telangana District 13,Telangana,TG,South,63.7,91.2,88.4,84.7,48.4,69.6,75.3,62.6,66.9,48.4,2.13,80.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_014,Telangana District 14,Telangana,TG,South,73.8,95.4,98.5,85.7,51.1,82.8,50.0,60.5,54.6,54.3,2.38,58.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_015,Telangana District 15,Telangana,TG,South,66.8,97.8,93.2,82.0,54.1,72.9,60.5,67.5,68.5,41.9,1.99,59.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_016,Telangana District 16,Telangana,TG,South,80.8,100.0,100.0,93.3,65.1,84.2,37.4,71.8,46.8,30.5,2.51,60.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_017,Telangana District 17,Telangana,TG,South,81.2,100.0,100.0,96.0,71.5,84.1,11.5,75.6,50.8,27.5,1.92,49.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_018,Telangana District 18,Telangana,TG,South,87.4,100.0,100.0,98.1,78.8,89.3,10.0,77.4,49.5,43.6,2.63,38.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_019,Telangana District 19,Telangana,TG,South,77.0,97.4,99.7,88.7,64.6,86.5,23.8,71.8,65.1,28.6,2.05,52.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_020,Telangana District 20,Telangana,TG,South,84.5,99.6,100.0,97.0,73.4,87.3,10.1,72.6,46.1,31.4,2.83,51.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_021,Telangana District 21,Telangana,TG,South,90.0,100.0,100.0,95.5,69.3,90.5,10.0,78.5,46.6,30.4,2.19,40.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_022,Telangana District 22,Telangana,TG,South,76.9,100.0,96.5,91.3,73.7,80.6,22.0,71.4,57.3,39.7,2.26,56.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_023,Telangana District 23,Telangana,TG,South,84.5,100.0,100.0,99.0,69.3,83.8,31.9,72.3,41.4,29.1,2.48,46.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_024,Telangana District 24,Telangana,TG,South,77.1,100.0,97.8,91.2,63.0,84.7,43.1,65.6,63.9,47.3,1.86,58.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_025,Telangana District 25,Telangana,TG,South,88.4,100.0,100.0,96.3,78.5,86.2,10.0,73.5,51.1,33.4,2.87,36.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_026,Telangana District 26,Telangana,TG,South,78.3,94.7,98.5,91.3,64.0,81.3,53.5,58.9,63.9,38.8,1.81,62.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_027,Telangana District 27,Telangana,TG,South,84.8,100.0,100.0,98.8,78.4,90.9,13.7,69.3,48.9,47.0,1.72,42.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_028,Telangana District 28,Telangana,TG,South,76.6,97.6,100.0,86.7,63.2,78.7,24.4,65.4,59.9,38.7,1.91,50.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_029,Telangana District 29,Telangana,TG,South,67.6,98.8,97.5,83.2,59.6,77.4,48.7,70.2,52.4,35.8,2.15,65.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_030,Telangana District 30,Telangana,TG,South,72.8,97.0,96.4,92.3,63.2,87.7,37.6,65.6,51.8,31.7,1.29,59.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_031,Telangana District 31,Telangana,TG,South,72.4,100.0,98.3,91.0,71.8,86.2,28.6,66.7,46.3,36.1,1.78,48.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_032,Telangana District 32,Telangana,TG,South,72.8,95.8,95.5,87.8,62.3,76.0,62.8,65.6,62.2,43.9,2.42,67.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TG_033,Telangana District 33,Telangana,TG,South,73.9,99.2,95.8,89.8,63.5,81.4,35.1,62.5,56.1,43.8,2.14,50.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GA_001,Goa District 1,Goa,GA,West,99.5,100.0,100.0,97.8,85.1,90.8,18.2,99.0,24.3,6.8,3.73,46.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GA_002,Goa District 2,Goa,GA,West,94.5,100.0,100.0,89.5,75.7,83.2,41.7,93.8,30.3,7.9,2.92,55.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PY_001,Puducherry District 1,Puducherry,PY,South,86.5,100.0,100.0,91.9,66.3,79.6,27.1,87.7,42.2,18.3,2.84,63.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PY_002,Puducherry District 2,Puducherry,PY,South,85.9,100.0,99.8,96.5,73.7,88.5,18.6,87.7,29.0,16.0,3.23,66.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PY_003,Puducherry District 3,Puducherry,PY,South,90.1,100.0,100.0,99.0,75.1,89.8,23.0,84.9,21.6,17.8,2.86,63.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PY_004,Puducherry District 4,Puducherry,PY,South,99.5,100.0,100.0,99.0,83.0,98.0,10.0,97.4,4.0,1.5,3.74,34.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_001,Mumbai City,Maharashtra,MH,West,85.9,96.3,100.0,99.0,71.4,83.9,10.0,85.5,37.7,13.9,3.19,36.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_002,Mumbai Suburban,Maharashtra,MH,West,79.3,96.9,98.3,87.4,52.6,77.1,30.2,77.0,52.9,37.6,1.99,54.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_003,Pune,Maharashtra,MH,West,60.8,84.7,87.4,75.5,40.2,57.9,109.7,68.9,70.1,44.2,1.98,84.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_004,Nagpur,Maharashtra,MH,West,78.9,97.7,97.8,89.0,52.1,82.9,25.9,70.2,52.9,36.6,2.09,49.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_005,Thane,Maharashtra,MH,West,84.4,97.3,100.0,88.9,50.9,80.1,18.6,84.5,48.4,27.9,2.33,42.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_006,Nashik,Maharashtra,MH,West,78.0,98.6,100.0,90.5,52.6,81.4,23.2,75.2,50.5,29.1,1.66,53.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_007,Aurangabad,Maharashtra,MH,West,63.7,86.1,93.3,82.2,38.8,72.8,61.7,66.3,57.3,36.1,1.65,74.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_008,Solapur,Maharashtra,MH,West,68.9,88.3,96.7,81.5,46.8,75.1,53.6,70.5,41.3,42.0,2.08,69.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_009,Kolhapur,Maharashtra,MH,West,71.6,97.8,94.2,88.7,51.6,80.1,61.5,77.8,50.6,21.8,1.99,53.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_010,Amravati,Maharashtra,MH,West,66.2,93.4,92.2,87.5,44.9,72.9,38.1,73.7,62.2,33.8,1.61,63.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_011,Nanded,Maharashtra,MH,West,57.2,87.7,92.9,80.3,38.7,70.0,61.0,69.3,65.1,38.1,2.12,61.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_012,Gadchiroli,Maharashtra,MH,West,75.3,96.7,97.7,89.2,47.3,75.2,28.5,73.8,59.0,35.3,2.54,58.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_013,Nandurbar,Maharashtra,MH,West,73.6,90.7,90.1,84.6,43.1,73.8,31.2,74.1,62.1,38.2,2.15,63.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_014,Washim,Maharashtra,MH,West,65.5,89.7,93.1,77.3,33.2,71.2,62.6,66.5,59.6,35.4,2.51,83.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_015,Maharashtra District 15,Maharashtra,MH,West,66.1,90.0,93.9,80.1,40.6,70.1,40.8,72.8,59.4,31.9,1.9,55.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_016,Maharashtra District 16,Maharashtra,MH,West,78.3,96.1,95.0,84.5,46.7,76.0,23.0,77.8,59.9,35.7,2.32,62.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_017,Maharashtra District 17,Maharashtra,MH,West,79.3,96.5,96.9,89.9,59.2,75.5,10.0,79.7,49.7,30.3,2.08,50.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_018,Maharashtra District 18,Maharashtra,MH,West,78.6,98.6,100.0,88.7,58.5,89.7,10.0,84.4,36.6,20.0,1.72,40.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_019,Maharashtra District 19,Maharashtra,MH,West,84.3,97.0,100.0,94.1,62.2,88.1,10.0,80.1,38.3,27.7,1.89,50.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_020,Maharashtra District 20,Maharashtra,MH,West,69.7,94.8,93.4,92.1,41.0,75.5,59.0,75.1,54.5,32.9,1.84,69.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_021,Maharashtra District 21,Maharashtra,MH,West,58.1,81.4,86.7,73.9,33.8,57.0,87.2,69.4,65.7,37.8,2.09,89.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_022,Maharashtra District 22,Maharashtra,MH,West,69.4,96.1,100.0,85.7,51.0,71.4,21.1,77.0,62.1,33.1,2.16,59.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_023,Maharashtra District 23,Maharashtra,MH,West,63.0,91.9,89.9,78.5,39.7,66.5,59.7,74.9,63.6,33.4,1.84,79.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_024,Maharashtra District 24,Maharashtra,MH,West,67.7,97.6,98.7,83.5,39.2,77.5,28.8,76.9,46.4,24.1,2.4,66.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_025,Maharashtra District 25,Maharashtra,MH,West,68.3,93.6,97.6,86.6,50.4,81.8,13.9,80.4,55.2,23.6,1.6,58.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_026,Maharashtra District 26,Maharashtra,MH,West,78.9,100.0,95.7,90.8,49.9,82.1,23.4,79.3,34.4,27.0,2.09,51.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_027,Maharashtra District 27,Maharashtra,MH,West,78.3,100.0,100.0,87.0,58.5,81.2,10.0,83.3,42.5,24.6,1.7,38.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_028,Maharashtra District 28,Maharashtra,MH,West,64.6,86.9,93.3,82.2,33.0,66.7,71.2,66.6,61.2,45.7,2.21,71.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_029,Maharashtra District 29,Maharashtra,MH,West,71.4,97.1,96.0,83.5,40.3,69.2,52.4,73.5,66.6,31.0,2.29,73.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_030,Maharashtra District 30,Maharashtra,MH,West,61.7,91.2,97.0,90.5,42.9,68.8,61.4,72.7,61.2,38.6,2.81,75.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_031,Maharashtra District 31,Maharashtra,MH,West,78.6,99.8,96.8,87.9,48.6,80.8,27.7,80.5,57.8,34.3,2.0,45.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_032,Maharashtra District 32,Maharashtra,MH,West,70.6,95.5,93.6,84.0,39.0,71.9,52.2,75.1,60.4,35.6,2.02,60.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_033,Maharashtra District 33,Maharashtra,MH,West,78.9,99.0,97.1,83.2,57.6,78.1,10.0,81.4,47.2,30.3,2.48,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_034,Maharashtra District 34,Maharashtra,MH,West,64.1,89.7,89.7,79.8,30.7,68.5,50.7,63.9,58.1,39.5,2.5,85.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_035,Maharashtra District 35,Maharashtra,MH,West,61.0,89.3,96.9,83.1,41.8,72.7,50.8,75.9,66.3,30.1,1.84,63.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MH_036,Maharashtra District 36,Maharashtra,MH,West,70.3,93.1,97.6,87.4,50.1,74.5,24.5,74.2,57.2,26.0,2.47,51.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_001,Ahmedabad,Gujarat,GJ,West,49.9,87.8,85.9,72.9,28.4,69.8,90.8,60.3,70.3,47.5,1.95,88.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_002,Surat,Gujarat,GJ,West,71.7,100.0,100.0,86.4,56.9,91.1,14.0,75.3,51.8,35.6,2.32,46.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_003,Vadodara,Gujarat,GJ,West,63.6,98.9,99.6,84.4,46.4,75.5,54.6,74.6,54.0,32.3,2.71,58.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_004,Rajkot,Gujarat,GJ,West,56.2,89.5,91.9,76.9,35.4,74.6,74.2,60.3,74.3,43.6,2.82,76.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_005,Bhavnagar,Gujarat,GJ,West,61.5,93.0,92.7,78.2,37.1,72.2,58.1,67.7,57.8,47.4,2.51,62.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_006,Jamnagar,Gujarat,GJ,West,68.7,96.6,96.3,86.5,47.3,75.6,62.2,74.7,51.7,36.6,2.22,55.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_007,Gandhinagar,Gujarat,GJ,West,82.3,96.6,95.8,89.4,54.5,83.8,50.8,72.6,52.3,43.5,1.93,59.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_008,Kachchh,Gujarat,GJ,West,56.5,93.5,91.3,79.1,38.0,67.4,73.7,64.4,61.1,36.9,2.85,74.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_009,Dangs,Gujarat,GJ,West,61.5,95.3,95.0,83.4,45.4,75.4,55.8,65.9,55.5,46.7,3.53,55.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_010,Dahod,Gujarat,GJ,West,55.3,90.3,91.5,75.7,33.2,71.2,87.1,56.8,66.8,51.2,1.82,93.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_011,Gujarat District 11,Gujarat,GJ,West,66.9,98.4,97.8,86.2,48.8,86.9,35.3,74.1,49.8,28.5,2.45,53.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_012,Gujarat District 12,Gujarat,GJ,West,65.8,95.6,91.0,81.8,38.5,72.3,60.9,68.2,71.9,37.0,2.39,60.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_013,Gujarat District 13,Gujarat,GJ,West,80.9,94.1,94.4,93.8,52.8,81.4,40.9,68.4,49.2,41.5,2.35,41.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_014,Gujarat District 14,Gujarat,GJ,West,62.4,95.4,93.3,82.3,40.3,80.7,65.4,70.5,56.9,36.2,1.55,58.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_015,Gujarat District 15,Gujarat,GJ,West,83.3,100.0,100.0,97.0,70.3,95.0,10.0,85.0,42.6,20.2,2.69,20.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_016,Gujarat District 16,Gujarat,GJ,West,60.4,93.3,97.5,80.7,41.9,77.1,71.6,62.8,56.0,48.8,2.3,59.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_017,Gujarat District 17,Gujarat,GJ,West,51.1,84.6,85.1,71.8,28.8,64.9,71.8,63.1,78.8,43.8,2.49,81.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_018,Gujarat District 18,Gujarat,GJ,West,66.9,96.1,93.3,83.3,45.4,82.7,65.6,73.0,57.9,38.3,2.83,54.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_019,Gujarat District 19,Gujarat,GJ,West,79.3,99.0,99.3,91.0,56.0,87.2,29.9,83.5,51.5,31.7,2.29,37.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_020,Gujarat District 20,Gujarat,GJ,West,74.6,95.4,94.6,83.1,42.2,78.0,43.8,68.7,54.3,33.7,2.61,64.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_021,Gujarat District 21,Gujarat,GJ,West,72.8,94.6,99.3,82.4,51.0,81.7,52.4,70.0,48.8,30.9,2.47,56.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_022,Gujarat District 22,Gujarat,GJ,West,56.2,85.1,91.4,78.1,30.6,71.8,90.2,61.6,63.3,47.6,1.32,67.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_023,Gujarat District 23,Gujarat,GJ,West,64.8,96.6,94.8,82.6,47.2,79.7,58.7,72.6,49.0,36.9,2.54,52.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_024,Gujarat District 24,Gujarat,GJ,West,62.7,92.9,95.1,86.2,46.1,72.4,69.8,73.3,61.3,47.1,2.69,69.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_025,Gujarat District 25,Gujarat,GJ,West,70.7,95.8,96.2,83.3,51.7,77.0,69.9,73.6,48.4,22.5,2.37,60.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_026,Gujarat District 26,Gujarat,GJ,West,70.4,98.4,100.0,86.0,46.0,88.2,61.1,75.6,55.4,30.0,2.8,46.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_027,Gujarat District 27,Gujarat,GJ,West,81.3,100.0,97.7,95.2,50.7,84.4,34.0,82.1,51.8,30.4,2.39,45.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_028,Gujarat District 28,Gujarat,GJ,West,60.8,95.8,97.9,82.4,49.3,80.8,65.8,78.5,50.6,29.9,2.13,50.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_029,Gujarat District 29,Gujarat,GJ,West,63.9,92.0,97.5,86.0,41.8,82.1,45.1,72.5,59.9,39.5,2.18,54.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_030,Gujarat District 30,Gujarat,GJ,West,62.5,91.4,94.0,77.5,40.2,76.0,58.2,68.9,58.7,43.7,2.42,58.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_031,Gujarat District 31,Gujarat,GJ,West,51.0,87.9,89.7,74.8,29.4,69.4,85.6,65.9,64.2,38.5,2.01,74.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_032,Gujarat District 32,Gujarat,GJ,West,59.7,85.7,91.1,79.8,38.0,81.6,79.9,63.0,63.7,44.6,1.4,65.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+GJ_033,Gujarat District 33,Gujarat,GJ,West,70.8,97.8,97.1,92.9,49.2,89.5,46.6,77.2,51.9,21.9,2.38,47.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_001,Punjab District 1,Punjab,PB,North,76.1,93.9,99.1,94.3,59.1,82.1,97.8,82.0,47.2,34.5,1.88,48.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_002,Punjab District 2,Punjab,PB,North,66.0,98.6,99.1,90.4,45.3,76.7,92.2,81.6,58.6,25.0,2.4,59.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_003,Punjab District 3,Punjab,PB,North,59.9,89.3,91.4,83.3,37.1,72.9,138.0,72.4,65.6,44.9,2.2,71.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_004,Punjab District 4,Punjab,PB,North,66.3,89.0,95.7,83.6,42.6,71.3,106.0,77.2,72.9,40.1,2.01,53.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_005,Punjab District 5,Punjab,PB,North,64.0,89.3,91.4,80.1,44.6,73.1,91.0,68.9,64.1,27.3,2.51,64.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_006,Punjab District 6,Punjab,PB,North,69.5,91.0,95.0,82.8,35.3,76.5,119.2,77.1,86.3,50.5,1.36,64.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_007,Punjab District 7,Punjab,PB,North,71.4,94.3,95.7,87.4,43.9,81.3,93.7,76.7,58.0,31.0,2.87,58.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_008,Punjab District 8,Punjab,PB,North,65.5,93.1,97.8,80.8,45.0,73.1,136.6,72.3,72.1,40.7,2.21,69.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_009,Punjab District 9,Punjab,PB,North,70.8,96.0,100.0,89.2,53.2,77.3,88.8,82.8,64.9,28.5,2.96,55.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_010,Punjab District 10,Punjab,PB,North,53.8,90.2,88.6,78.7,34.7,68.4,127.3,69.7,60.7,31.2,2.22,86.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_011,Punjab District 11,Punjab,PB,North,77.3,100.0,96.6,94.1,57.4,81.1,101.5,79.5,52.2,27.4,2.03,44.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_012,Punjab District 12,Punjab,PB,North,78.6,100.0,99.2,85.7,58.1,78.4,77.3,81.1,62.7,32.5,2.71,52.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_013,Punjab District 13,Punjab,PB,North,63.8,91.3,93.4,84.6,44.4,73.0,103.8,71.0,68.7,35.3,2.34,84.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_014,Punjab District 14,Punjab,PB,North,84.1,100.0,100.0,89.7,59.5,87.1,56.7,87.8,49.6,19.1,1.44,39.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_015,Punjab District 15,Punjab,PB,North,87.1,98.5,100.0,89.8,66.3,87.0,62.3,92.9,41.0,14.4,1.67,43.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_016,Punjab District 16,Punjab,PB,North,46.3,86.7,91.6,81.0,34.6,66.8,152.3,64.5,72.7,48.9,2.39,75.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_017,Punjab District 17,Punjab,PB,North,60.7,92.6,97.3,82.2,48.3,78.8,100.1,79.2,57.4,34.8,2.21,60.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_018,Punjab District 18,Punjab,PB,North,64.9,93.8,88.6,85.5,42.1,75.0,132.3,71.2,63.6,35.4,2.17,77.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_019,Punjab District 19,Punjab,PB,North,59.9,91.3,89.7,79.5,42.6,71.0,122.7,72.2,61.8,46.8,2.44,70.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_020,Punjab District 20,Punjab,PB,North,73.4,91.7,100.0,86.7,56.0,76.2,121.9,82.1,63.5,30.4,2.41,64.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_021,Punjab District 21,Punjab,PB,North,63.4,91.8,96.1,86.6,48.6,81.9,78.5,79.7,52.3,29.4,2.64,60.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_022,Punjab District 22,Punjab,PB,North,66.2,93.6,94.2,80.3,43.6,69.8,134.3,78.7,74.8,39.1,1.97,62.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+PB_023,Punjab District 23,Punjab,PB,North,75.5,91.5,95.3,87.0,50.9,76.8,97.1,82.4,56.9,34.6,1.96,63.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_001,Haryana District 1,Haryana,HR,North,57.5,94.2,92.8,81.6,48.6,67.5,122.5,73.5,66.9,38.5,2.06,55.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_002,Haryana District 2,Haryana,HR,North,76.7,100.0,100.0,88.8,62.4,84.6,73.3,77.7,52.6,33.5,1.83,44.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_003,Haryana District 3,Haryana,HR,North,55.3,91.6,90.6,83.4,42.5,63.0,107.1,68.9,62.6,41.1,1.54,76.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_004,Haryana District 4,Haryana,HR,North,64.3,97.5,95.5,83.9,47.0,72.8,84.4,78.1,62.1,29.2,1.91,59.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_005,Haryana District 5,Haryana,HR,North,55.3,86.6,88.6,73.4,37.4,71.7,131.2,71.6,78.2,41.7,1.6,71.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_006,Haryana District 6,Haryana,HR,North,70.9,100.0,100.0,96.5,57.6,86.8,94.1,81.4,46.8,30.6,1.25,32.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_007,Haryana District 7,Haryana,HR,North,62.2,93.9,95.1,83.2,51.6,71.2,96.1,71.5,72.2,43.9,2.51,71.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_008,Haryana District 8,Haryana,HR,North,59.6,94.2,92.9,83.9,33.8,67.8,113.1,71.6,69.3,47.5,2.44,78.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_009,Haryana District 9,Haryana,HR,North,62.8,93.7,99.7,88.2,51.3,76.9,65.4,74.2,72.4,40.7,1.52,62.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_010,Haryana District 10,Haryana,HR,North,53.8,92.3,90.8,86.7,33.2,72.4,121.5,71.3,77.3,44.4,1.77,63.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_011,Haryana District 11,Haryana,HR,North,70.0,99.2,100.0,88.5,54.4,77.3,74.2,82.8,67.5,32.5,1.99,47.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_012,Haryana District 12,Haryana,HR,North,76.1,100.0,97.8,89.1,59.0,85.6,67.6,79.7,60.1,27.6,2.42,54.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_013,Haryana District 13,Haryana,HR,North,74.2,100.0,100.0,87.7,58.2,76.6,80.8,77.7,63.3,33.6,1.95,42.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_014,Haryana District 14,Haryana,HR,North,66.3,86.7,97.6,84.0,42.3,71.3,122.5,71.5,61.6,40.1,2.61,57.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_015,Haryana District 15,Haryana,HR,North,62.1,98.9,99.0,87.1,52.4,83.4,91.2,73.5,65.6,33.1,3.04,55.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_016,Haryana District 16,Haryana,HR,North,67.2,93.9,99.9,93.4,53.2,76.1,68.3,79.0,67.3,34.9,2.31,51.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_017,Haryana District 17,Haryana,HR,North,57.4,92.9,87.5,83.7,43.4,74.4,103.9,65.8,73.1,54.9,2.33,77.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_018,Haryana District 18,Haryana,HR,North,58.1,97.3,92.2,88.1,46.3,80.1,109.5,74.2,64.4,39.6,1.95,63.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_019,Haryana District 19,Haryana,HR,North,58.2,92.6,87.9,82.8,40.9,69.2,88.8,67.3,63.1,51.6,1.78,64.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_020,Haryana District 20,Haryana,HR,North,66.7,96.0,96.0,81.7,56.4,83.3,71.9,73.8,62.3,39.5,1.67,53.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_021,Haryana District 21,Haryana,HR,North,86.4,100.0,100.0,98.5,63.3,86.9,49.3,90.4,48.5,17.3,1.39,33.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HR_022,Haryana District 22,Haryana,HR,North,70.1,90.7,96.5,88.5,57.8,74.8,103.6,77.2,66.7,38.1,2.06,45.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_001,Himachal Pradesh District 1,Himachal Pradesh,HP,North,74.6,90.4,97.8,82.7,57.7,89.5,40.0,85.0,83.7,36.7,4.58,44.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_002,Himachal Pradesh District 2,Himachal Pradesh,HP,North,61.8,85.7,89.1,79.9,43.1,79.2,79.7,84.1,96.4,42.4,4.7,74.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_003,Himachal Pradesh District 3,Himachal Pradesh,HP,North,72.5,96.8,94.3,85.6,53.0,78.0,57.0,86.2,82.7,42.4,4.26,57.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_004,Himachal Pradesh District 4,Himachal Pradesh,HP,North,58.3,81.2,84.8,74.4,43.7,68.1,88.6,74.9,84.4,48.3,5.12,71.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_005,Himachal Pradesh District 5,Himachal Pradesh,HP,North,64.5,93.0,94.9,81.9,58.4,79.7,48.5,81.8,90.4,38.8,4.0,59.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_006,Himachal Pradesh District 6,Himachal Pradesh,HP,North,67.9,84.9,88.0,77.0,57.5,71.8,80.6,86.6,89.0,34.3,3.03,60.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_007,Himachal Pradesh District 7,Himachal Pradesh,HP,North,58.0,88.2,87.9,73.5,40.2,71.9,84.7,78.8,95.3,53.1,4.43,77.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_008,Himachal Pradesh District 8,Himachal Pradesh,HP,North,67.4,87.0,92.9,79.2,54.0,78.9,60.0,78.5,91.9,45.1,4.17,57.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_009,Himachal Pradesh District 9,Himachal Pradesh,HP,North,75.7,98.1,90.4,88.7,65.3,83.8,43.2,93.5,69.0,12.8,4.43,39.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_010,Himachal Pradesh District 10,Himachal Pradesh,HP,North,80.2,91.8,95.8,95.6,59.1,85.4,47.1,97.4,76.3,35.2,3.64,50.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_011,Himachal Pradesh District 11,Himachal Pradesh,HP,North,71.3,90.9,92.3,85.7,65.1,85.9,37.1,90.8,86.0,39.6,4.51,45.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+HP_012,Himachal Pradesh District 12,Himachal Pradesh,HP,North,66.2,83.7,90.8,88.7,46.6,78.7,73.5,83.1,89.6,39.9,3.62,55.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_001,Uttarakhand District 1,Uttarakhand,UK,North,38.4,76.7,76.8,64.5,27.0,57.7,162.0,63.5,93.3,54.5,2.64,78.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_002,Uttarakhand District 2,Uttarakhand,UK,North,52.3,82.6,84.1,73.0,49.8,76.1,119.7,74.3,67.3,34.7,1.92,51.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_003,Uttarakhand District 3,Uttarakhand,UK,North,61.9,91.4,91.2,87.9,42.5,81.6,89.5,80.3,64.3,32.0,2.65,40.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_004,Uttarakhand District 4,Uttarakhand,UK,North,53.9,80.2,84.2,68.8,30.6,69.2,102.6,71.2,75.1,41.8,2.55,71.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_005,Uttarakhand District 5,Uttarakhand,UK,North,61.3,83.3,86.9,81.8,47.9,69.9,92.0,74.3,63.9,32.4,3.35,46.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_006,Uttarakhand District 6,Uttarakhand,UK,North,53.9,84.6,89.4,76.7,43.9,77.1,91.2,81.4,61.4,30.8,2.67,53.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_007,Uttarakhand District 7,Uttarakhand,UK,North,47.9,78.3,83.0,69.9,30.9,67.9,116.5,76.0,71.0,40.8,2.68,68.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_008,Uttarakhand District 8,Uttarakhand,UK,North,46.3,80.8,81.9,64.4,33.5,72.2,116.8,69.7,77.7,50.5,2.64,62.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_009,Uttarakhand District 9,Uttarakhand,UK,North,61.1,85.9,88.6,81.5,48.1,70.8,96.8,80.2,63.7,32.2,2.53,58.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_010,Uttarakhand District 10,Uttarakhand,UK,North,48.2,81.7,85.1,78.1,40.9,66.9,134.7,76.7,76.2,41.8,2.43,66.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_011,Uttarakhand District 11,Uttarakhand,UK,North,66.9,90.8,88.8,79.2,49.6,80.4,73.5,86.3,66.7,25.4,2.09,44.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_012,Uttarakhand District 12,Uttarakhand,UK,North,53.6,88.3,87.2,76.5,35.7,67.7,99.6,71.7,71.8,57.6,2.43,70.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UK_013,Uttarakhand District 13,Uttarakhand,UK,North,50.9,85.2,88.6,69.0,30.6,67.0,114.0,76.9,76.0,27.4,1.96,67.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_001,Jammu and Kashmir District 1,Jammu and Kashmir,JK,North,52.7,89.3,92.9,75.0,44.0,72.8,91.8,60.4,75.7,52.0,3.23,70.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_002,Jammu and Kashmir District 2,Jammu and Kashmir,JK,North,57.7,82.1,90.8,78.8,38.6,70.5,103.8,67.3,78.3,36.6,2.69,72.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_003,Jammu and Kashmir District 3,Jammu and Kashmir,JK,North,85.1,100.0,100.0,89.7,64.1,93.2,35.8,80.3,51.4,32.5,3.59,32.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_004,Jammu and Kashmir District 4,Jammu and Kashmir,JK,North,73.6,94.4,96.0,79.2,61.4,78.5,41.2,68.3,64.2,39.8,2.93,41.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_005,Jammu and Kashmir District 5,Jammu and Kashmir,JK,North,58.5,85.9,90.4,71.0,43.9,75.4,110.8,61.3,83.3,52.1,2.89,72.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_006,Jammu and Kashmir District 6,Jammu and Kashmir,JK,North,66.1,88.9,90.9,74.5,44.4,73.4,83.5,65.4,76.5,37.3,3.02,65.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_007,Jammu and Kashmir District 7,Jammu and Kashmir,JK,North,70.2,97.0,95.0,83.8,53.0,77.4,55.6,73.1,64.1,36.1,2.47,51.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_008,Jammu and Kashmir District 8,Jammu and Kashmir,JK,North,67.1,90.3,96.9,75.7,53.6,81.8,84.8,68.1,70.3,36.3,3.47,54.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_009,Jammu and Kashmir District 9,Jammu and Kashmir,JK,North,67.8,91.8,90.2,76.6,46.6,73.6,98.5,62.7,83.8,56.7,3.37,62.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_010,Jammu and Kashmir District 10,Jammu and Kashmir,JK,North,60.5,90.3,94.8,82.6,46.4,76.2,79.5,64.0,76.8,47.3,2.67,59.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_011,Jammu and Kashmir District 11,Jammu and Kashmir,JK,North,60.1,88.5,90.2,73.4,47.4,78.9,97.0,67.6,72.0,38.7,3.07,60.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_012,Jammu and Kashmir District 12,Jammu and Kashmir,JK,North,64.7,92.0,91.9,71.2,45.7,74.8,96.4,59.4,74.1,53.3,2.97,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_013,Jammu and Kashmir District 13,Jammu and Kashmir,JK,North,65.9,94.1,95.2,80.4,47.6,71.2,76.9,71.1,80.9,46.6,3.32,64.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_014,Jammu and Kashmir District 14,Jammu and Kashmir,JK,North,61.6,94.7,89.6,81.6,46.5,79.2,73.4,67.7,73.4,45.7,2.36,72.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_015,Jammu and Kashmir District 15,Jammu and Kashmir,JK,North,54.4,88.6,90.7,76.9,49.5,73.0,118.9,65.0,77.6,46.5,2.27,68.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_016,Jammu and Kashmir District 16,Jammu and Kashmir,JK,North,76.6,93.1,98.2,86.3,65.3,86.9,66.0,74.5,66.9,31.3,3.56,46.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_017,Jammu and Kashmir District 17,Jammu and Kashmir,JK,North,61.6,92.6,89.7,68.5,44.6,76.6,101.4,66.0,77.4,49.6,2.42,64.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_018,Jammu and Kashmir District 18,Jammu and Kashmir,JK,North,87.4,99.9,100.0,90.1,67.4,95.0,32.2,78.8,64.6,38.0,3.02,30.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_019,Jammu and Kashmir District 19,Jammu and Kashmir,JK,North,71.0,88.6,100.0,85.2,53.1,77.0,74.2,71.3,71.5,44.1,3.09,64.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JK_020,Jammu and Kashmir District 20,Jammu and Kashmir,JK,North,68.0,98.6,100.0,91.8,51.8,82.5,40.5,73.8,65.3,34.1,3.87,43.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_001,Delhi District 1,Delhi,DL,North,56.3,94.1,88.3,81.4,34.3,72.0,72.1,84.7,2.0,11.4,1.39,68.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_002,Delhi District 2,Delhi,DL,North,57.7,80.7,88.5,75.4,38.4,67.8,55.2,75.7,14.4,18.4,1.36,73.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_003,Delhi District 3,Delhi,DL,North,71.3,96.7,100.0,82.9,43.9,82.6,18.5,89.1,1.0,15.9,1.28,56.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_004,Delhi District 4,Delhi,DL,North,69.6,94.4,91.5,85.6,56.4,82.7,20.4,90.9,1.0,10.5,1.49,40.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_005,Delhi District 5,Delhi,DL,North,73.0,94.1,98.2,93.6,47.9,79.0,26.6,88.4,2.4,3.7,1.49,57.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_006,Delhi District 6,Delhi,DL,North,81.2,100.0,100.0,93.3,58.2,81.6,13.7,91.3,1.0,7.9,1.49,35.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_007,Delhi District 7,Delhi,DL,North,78.2,96.5,95.5,88.5,52.2,82.6,14.5,86.0,1.0,13.3,1.26,43.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_008,Delhi District 8,Delhi,DL,North,74.8,100.0,100.0,94.7,59.0,89.6,10.0,92.1,1.0,6.9,1.35,47.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_009,Delhi District 9,Delhi,DL,North,60.5,88.0,91.0,78.8,32.4,67.2,80.9,83.2,10.4,13.4,1.51,80.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_010,Delhi District 10,Delhi,DL,North,66.3,96.4,92.6,87.4,38.5,79.9,41.9,84.4,1.0,6.0,1.2,58.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DL_011,Delhi District 11,Delhi,DL,North,69.4,94.0,95.5,79.7,41.5,80.8,36.2,90.4,2.4,12.8,1.4,69.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CH_001,Chandigarh District 1,Chandigarh,CH,North,73.1,98.1,99.3,92.2,55.6,83.6,62.1,86.9,5.2,1.5,1.52,63.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+LA_001,Ladakh District 1,Ladakh,LA,North,56.6,89.0,90.5,79.3,47.9,68.5,99.0,73.3,80.9,39.7,4.29,61.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+LA_002,Ladakh District 2,Ladakh,LA,North,61.0,88.0,86.5,75.2,51.6,70.6,81.8,77.5,73.8,37.1,3.81,56.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_001,Lucknow,Uttar Pradesh,UP,Central,33.6,80.7,81.1,68.0,22.3,56.9,191.6,59.3,81.2,50.5,1.34,73.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_002,Kanpur Nagar,Uttar Pradesh,UP,Central,59.9,92.1,93.6,84.8,41.0,82.0,86.2,71.9,56.4,28.8,2.09,15.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_003,Varanasi,Uttar Pradesh,UP,Central,48.1,82.7,84.5,71.8,27.0,65.2,160.4,60.7,68.8,46.9,1.09,49.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_004,Prayagraj,Uttar Pradesh,UP,Central,42.7,86.9,89.2,81.5,26.4,69.6,127.8,63.3,75.5,54.2,1.6,42.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_005,Agra,Uttar Pradesh,UP,Central,53.4,86.8,87.5,74.5,19.9,71.3,148.2,70.5,65.7,47.6,1.07,51.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_006,Ghaziabad,Uttar Pradesh,UP,Central,54.5,84.3,92.6,77.4,36.0,72.6,116.5,74.6,77.1,40.6,1.82,49.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_007,Gautam Buddha Nagar,Uttar Pradesh,UP,Central,44.9,81.2,86.2,76.1,20.5,69.6,161.3,64.6,81.0,52.9,1.47,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_008,Gorakhpur,Uttar Pradesh,UP,Central,43.6,84.0,79.6,68.2,25.6,63.0,162.0,61.7,72.8,48.1,0.69,57.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_009,Bareilly,Uttar Pradesh,UP,Central,33.9,80.4,86.4,62.5,19.7,61.1,178.9,61.4,83.1,59.5,1.68,75.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_010,Meerut,Uttar Pradesh,UP,Central,45.2,81.4,86.2,78.1,20.0,63.5,157.3,65.9,69.7,37.9,1.41,48.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_011,Aligarh,Uttar Pradesh,UP,Central,43.8,81.9,85.9,77.6,26.8,66.5,152.1,64.7,74.5,45.0,1.77,57.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_012,Moradabad,Uttar Pradesh,UP,Central,36.8,79.1,79.7,66.2,13.4,60.9,178.9,57.6,91.9,61.7,1.33,83.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_013,Bahraich,Uttar Pradesh,UP,Central,41.4,78.5,85.2,70.5,21.2,59.3,155.9,65.4,70.6,50.1,1.46,66.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_014,Shravasti,Uttar Pradesh,UP,Central,62.5,89.8,92.3,81.5,30.6,72.5,117.4,70.7,62.4,30.8,1.49,39.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_015,Balrampur,Uttar Pradesh,UP,Central,49.3,85.5,89.0,77.5,28.9,65.5,154.6,73.6,69.0,36.5,2.54,51.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_016,Budaun,Uttar Pradesh,UP,Central,37.5,75.7,80.9,65.3,17.8,62.9,189.5,55.3,93.3,55.4,1.73,69.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_017,Uttar Pradesh District 17,Uttar Pradesh,UP,Central,41.6,84.7,84.0,71.6,20.9,60.3,164.9,68.8,78.9,47.1,1.97,54.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_018,Uttar Pradesh District 18,Uttar Pradesh,UP,Central,44.8,84.4,85.6,79.3,32.4,70.4,161.4,68.1,72.7,48.4,1.54,49.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_019,Uttar Pradesh District 19,Uttar Pradesh,UP,Central,41.0,84.2,81.7,69.8,15.2,53.5,177.9,65.8,82.1,46.8,0.72,51.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_020,Uttar Pradesh District 20,Uttar Pradesh,UP,Central,50.2,92.7,92.4,76.0,28.0,73.1,126.7,73.9,64.3,26.4,0.8,44.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_021,Uttar Pradesh District 21,Uttar Pradesh,UP,Central,35.7,83.0,85.6,68.3,16.7,62.0,163.1,63.7,85.0,41.2,1.91,62.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_022,Uttar Pradesh District 22,Uttar Pradesh,UP,Central,35.3,81.1,85.2,66.0,13.7,62.2,189.9,65.1,86.2,43.6,1.08,61.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_023,Uttar Pradesh District 23,Uttar Pradesh,UP,Central,52.2,91.4,89.4,78.7,24.9,64.1,162.6,71.0,72.9,43.8,1.77,59.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_024,Uttar Pradesh District 24,Uttar Pradesh,UP,Central,55.3,91.2,91.0,77.0,35.0,67.1,151.2,69.6,68.8,44.7,1.22,44.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_025,Uttar Pradesh District 25,Uttar Pradesh,UP,Central,30.3,75.1,80.9,63.9,11.9,51.2,195.0,56.0,94.7,55.2,2.35,85.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_026,Uttar Pradesh District 26,Uttar Pradesh,UP,Central,19.8,71.6,73.2,56.3,8.0,50.1,219.3,56.2,96.4,59.2,1.9,78.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_027,Uttar Pradesh District 27,Uttar Pradesh,UP,Central,49.3,85.2,88.4,74.5,28.6,71.2,147.9,69.2,66.8,44.1,2.08,59.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_028,Uttar Pradesh District 28,Uttar Pradesh,UP,Central,56.4,84.5,91.2,77.6,28.9,71.4,152.4,74.1,63.9,34.1,1.93,47.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_029,Uttar Pradesh District 29,Uttar Pradesh,UP,Central,39.1,84.3,81.0,76.2,12.7,60.1,178.1,66.2,79.6,49.6,1.57,62.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_030,Uttar Pradesh District 30,Uttar Pradesh,UP,Central,57.2,91.7,87.7,78.6,31.5,68.9,140.7,72.1,69.8,49.0,1.12,37.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_031,Uttar Pradesh District 31,Uttar Pradesh,UP,Central,47.0,82.7,87.8,69.3,29.8,65.2,155.0,66.4,80.0,43.8,1.34,56.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_032,Uttar Pradesh District 32,Uttar Pradesh,UP,Central,38.8,76.9,82.4,66.6,9.5,56.7,202.3,59.1,93.1,61.2,2.06,71.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_033,Uttar Pradesh District 33,Uttar Pradesh,UP,Central,31.1,79.4,82.1,60.0,14.2,57.8,187.4,64.0,88.4,50.6,2.19,78.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_034,Uttar Pradesh District 34,Uttar Pradesh,UP,Central,60.9,87.2,90.4,79.0,36.5,75.8,121.0,75.3,54.5,31.1,2.25,40.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_035,Uttar Pradesh District 35,Uttar Pradesh,UP,Central,43.8,74.2,83.6,70.0,18.2,67.5,163.2,66.7,82.0,44.6,2.17,59.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_036,Uttar Pradesh District 36,Uttar Pradesh,UP,Central,53.2,83.7,87.6,78.5,33.9,68.2,107.9,73.7,62.8,23.1,0.69,51.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_037,Uttar Pradesh District 37,Uttar Pradesh,UP,Central,42.7,87.8,86.9,77.4,17.7,64.5,144.8,66.1,75.4,46.6,1.88,62.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_038,Uttar Pradesh District 38,Uttar Pradesh,UP,Central,55.9,85.5,85.1,76.2,24.4,72.8,148.1,68.3,69.7,42.3,1.92,47.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_039,Uttar Pradesh District 39,Uttar Pradesh,UP,Central,53.6,90.5,92.8,75.3,36.7,70.4,140.2,72.4,67.8,44.0,2.1,41.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_040,Uttar Pradesh District 40,Uttar Pradesh,UP,Central,38.4,86.5,82.2,67.6,23.2,59.9,160.7,60.5,77.1,52.0,1.56,68.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_041,Uttar Pradesh District 41,Uttar Pradesh,UP,Central,46.2,85.1,88.1,78.4,26.8,65.5,143.5,64.7,76.8,50.7,1.86,52.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_042,Uttar Pradesh District 42,Uttar Pradesh,UP,Central,52.7,92.0,90.0,77.1,35.2,73.6,140.3,74.1,66.3,43.9,2.67,47.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_043,Uttar Pradesh District 43,Uttar Pradesh,UP,Central,46.9,85.3,85.3,71.5,22.8,54.3,167.1,65.2,84.8,43.8,1.61,58.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_044,Uttar Pradesh District 44,Uttar Pradesh,UP,Central,35.2,79.8,83.2,64.3,14.6,53.2,198.4,61.9,88.5,55.3,1.6,82.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_045,Uttar Pradesh District 45,Uttar Pradesh,UP,Central,40.5,79.2,81.5,70.8,24.6,61.3,170.4,63.3,77.3,41.4,1.73,71.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_046,Uttar Pradesh District 46,Uttar Pradesh,UP,Central,39.3,77.0,83.9,70.6,18.8,56.6,184.6,58.9,81.8,57.3,2.06,68.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_047,Uttar Pradesh District 47,Uttar Pradesh,UP,Central,36.4,79.4,75.3,69.4,14.9,61.8,175.3,51.2,86.9,51.8,1.73,65.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_048,Uttar Pradesh District 48,Uttar Pradesh,UP,Central,64.7,97.0,93.6,79.4,42.3,79.5,101.6,80.9,57.0,24.1,1.53,29.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_049,Uttar Pradesh District 49,Uttar Pradesh,UP,Central,18.7,77.3,78.7,62.0,8.0,49.8,206.7,50.6,89.6,65.0,1.89,80.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_050,Uttar Pradesh District 50,Uttar Pradesh,UP,Central,42.1,88.4,85.7,76.6,27.0,72.6,139.9,72.1,70.3,39.7,1.53,45.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_051,Uttar Pradesh District 51,Uttar Pradesh,UP,Central,42.1,84.0,85.0,74.2,25.9,60.4,177.7,62.5,80.8,40.9,1.88,60.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_052,Uttar Pradesh District 52,Uttar Pradesh,UP,Central,35.8,85.2,81.4,67.1,19.1,63.2,175.6,67.0,84.1,45.7,0.62,62.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_053,Uttar Pradesh District 53,Uttar Pradesh,UP,Central,37.3,92.6,87.9,74.7,30.6,74.2,166.9,71.6,74.5,39.9,1.54,49.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_054,Uttar Pradesh District 54,Uttar Pradesh,UP,Central,31.8,80.3,78.0,69.0,17.0,60.1,175.8,71.6,90.0,48.1,1.04,64.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_055,Uttar Pradesh District 55,Uttar Pradesh,UP,Central,29.1,80.3,79.2,69.7,18.7,62.1,179.1,61.9,89.0,49.5,1.39,81.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_056,Uttar Pradesh District 56,Uttar Pradesh,UP,Central,46.6,82.1,82.6,71.3,23.5,61.8,161.9,62.3,70.3,50.5,1.9,54.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_057,Uttar Pradesh District 57,Uttar Pradesh,UP,Central,30.2,78.1,82.5,69.6,12.7,54.0,192.6,58.0,83.3,58.5,2.2,73.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_058,Uttar Pradesh District 58,Uttar Pradesh,UP,Central,32.3,81.0,79.0,69.6,17.9,61.5,198.6,60.9,94.9,53.4,1.8,72.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_059,Uttar Pradesh District 59,Uttar Pradesh,UP,Central,39.9,84.0,88.4,66.5,30.2,68.8,156.2,69.0,75.8,49.3,2.15,48.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_060,Uttar Pradesh District 60,Uttar Pradesh,UP,Central,46.7,86.1,85.2,80.1,30.9,65.0,138.1,68.2,75.2,51.1,1.71,57.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_061,Uttar Pradesh District 61,Uttar Pradesh,UP,Central,51.8,83.6,88.0,79.9,29.4,71.2,141.8,68.3,69.3,39.7,1.74,47.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_062,Uttar Pradesh District 62,Uttar Pradesh,UP,Central,38.3,78.6,84.9,71.8,14.9,54.9,162.6,56.5,78.3,54.5,2.22,73.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_063,Uttar Pradesh District 63,Uttar Pradesh,UP,Central,19.3,76.6,77.1,60.4,8.0,55.7,213.2,54.1,96.4,50.6,2.68,90.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_064,Uttar Pradesh District 64,Uttar Pradesh,UP,Central,43.4,81.1,84.2,73.5,33.9,65.7,159.3,64.2,76.4,46.3,0.79,65.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_065,Uttar Pradesh District 65,Uttar Pradesh,UP,Central,35.2,79.4,78.1,65.1,19.1,58.5,195.1,58.4,88.3,45.1,1.37,87.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_066,Uttar Pradesh District 66,Uttar Pradesh,UP,Central,45.1,83.9,83.6,72.1,17.1,72.0,148.8,63.9,74.3,47.6,2.18,50.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_067,Uttar Pradesh District 67,Uttar Pradesh,UP,Central,55.6,90.2,91.4,85.4,40.4,69.1,158.9,74.1,70.2,38.3,0.84,40.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_068,Uttar Pradesh District 68,Uttar Pradesh,UP,Central,53.2,81.1,87.9,79.4,27.8,71.1,153.0,71.7,69.7,35.1,1.05,54.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_069,Uttar Pradesh District 69,Uttar Pradesh,UP,Central,42.1,82.3,84.1,75.1,21.1,59.6,175.5,65.6,77.7,47.3,2.32,61.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_070,Uttar Pradesh District 70,Uttar Pradesh,UP,Central,31.6,80.2,76.4,66.6,13.9,56.9,205.4,60.6,94.5,56.6,1.15,74.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_071,Uttar Pradesh District 71,Uttar Pradesh,UP,Central,36.7,85.4,80.7,68.1,14.6,55.1,168.7,58.1,79.3,52.5,2.37,70.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_072,Uttar Pradesh District 72,Uttar Pradesh,UP,Central,46.0,85.0,88.3,79.4,31.0,69.9,148.4,72.2,71.6,41.2,1.14,42.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_073,Uttar Pradesh District 73,Uttar Pradesh,UP,Central,41.4,90.9,85.0,68.1,22.4,65.9,185.3,64.8,69.1,38.5,1.97,56.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_074,Uttar Pradesh District 74,Uttar Pradesh,UP,Central,40.0,84.2,82.1,69.8,20.3,62.7,173.8,66.0,84.0,51.3,1.78,53.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+UP_075,Uttar Pradesh District 75,Uttar Pradesh,UP,Central,44.5,85.7,83.3,70.2,20.4,65.8,178.3,65.2,81.8,48.3,1.66,58.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_001,Bhopal,Madhya Pradesh,MP,Central,60.4,100.0,92.5,81.8,39.3,68.9,156.4,69.9,81.0,39.7,1.62,52.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_002,Indore,Madhya Pradesh,MP,Central,34.9,82.0,85.9,69.0,18.2,54.3,209.4,50.6,90.5,59.7,1.13,78.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_003,Jabalpur,Madhya Pradesh,MP,Central,63.9,89.4,89.3,78.9,40.0,71.2,155.6,67.8,69.8,33.7,2.17,51.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_004,Gwalior,Madhya Pradesh,MP,Central,51.5,96.4,91.0,77.4,39.6,66.6,146.1,65.3,75.8,42.8,1.55,63.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_005,Ujjain,Madhya Pradesh,MP,Central,48.3,89.7,92.5,82.0,36.6,68.9,174.2,60.5,75.4,44.9,1.75,62.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_006,Sagar,Madhya Pradesh,MP,Central,57.6,93.8,94.0,77.0,36.7,65.8,185.6,67.6,68.1,57.8,1.28,48.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_007,Rewa,Madhya Pradesh,MP,Central,50.7,90.6,92.6,79.8,34.6,61.2,179.4,64.0,86.2,57.1,1.07,66.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_008,Satna,Madhya Pradesh,MP,Central,59.7,91.9,96.9,82.7,46.0,72.2,147.4,65.3,69.8,40.4,1.89,46.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_009,Alirajpur,Madhya Pradesh,MP,Central,43.7,86.5,87.2,72.9,29.3,59.2,207.5,66.6,72.2,47.1,1.82,72.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_010,Jhabua,Madhya Pradesh,MP,Central,49.8,85.7,85.3,74.6,34.8,70.6,176.6,63.0,76.9,41.6,2.05,62.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_011,Barwani,Madhya Pradesh,MP,Central,46.6,85.6,90.5,75.7,32.4,67.7,195.1,57.5,85.4,59.9,1.43,78.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_012,Dindori,Madhya Pradesh,MP,Central,51.5,90.0,96.8,78.3,39.5,72.4,171.3,68.7,67.7,46.5,1.56,57.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_013,Madhya Pradesh District 13,Madhya Pradesh,MP,Central,54.5,89.3,88.7,72.9,30.0,64.8,193.5,61.6,75.4,48.2,1.4,54.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_014,Madhya Pradesh District 14,Madhya Pradesh,MP,Central,50.3,91.3,91.5,71.8,38.5,66.5,180.2,64.2,71.6,48.9,1.8,52.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_015,Madhya Pradesh District 15,Madhya Pradesh,MP,Central,47.4,89.2,92.7,71.5,29.8,62.3,175.2,61.4,80.6,53.3,1.23,56.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_016,Madhya Pradesh District 16,Madhya Pradesh,MP,Central,47.0,93.0,89.0,67.1,23.6,63.9,192.7,63.4,77.7,46.2,2.22,72.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_017,Madhya Pradesh District 17,Madhya Pradesh,MP,Central,35.9,78.8,84.9,68.2,24.0,57.6,197.8,55.9,78.0,52.8,2.31,76.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_018,Madhya Pradesh District 18,Madhya Pradesh,MP,Central,62.1,94.2,95.1,84.2,49.4,79.1,168.9,67.4,62.7,38.7,1.45,37.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_019,Madhya Pradesh District 19,Madhya Pradesh,MP,Central,51.1,89.2,88.4,76.0,22.9,57.5,166.9,58.3,80.5,54.1,1.75,62.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_020,Madhya Pradesh District 20,Madhya Pradesh,MP,Central,60.6,96.1,90.1,81.5,37.1,70.7,161.7,70.1,61.7,31.8,1.7,57.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_021,Madhya Pradesh District 21,Madhya Pradesh,MP,Central,55.1,88.4,89.7,73.2,37.8,63.7,185.3,63.1,64.2,39.2,1.44,62.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_022,Madhya Pradesh District 22,Madhya Pradesh,MP,Central,46.0,85.4,86.8,72.5,30.7,60.0,189.9,53.5,78.5,56.6,1.42,72.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_023,Madhya Pradesh District 23,Madhya Pradesh,MP,Central,56.6,93.4,97.4,81.0,40.7,69.4,150.3,66.6,64.2,41.5,2.04,43.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_024,Madhya Pradesh District 24,Madhya Pradesh,MP,Central,69.0,94.2,97.4,85.7,55.9,74.3,145.8,79.3,55.1,25.8,1.58,37.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_025,Madhya Pradesh District 25,Madhya Pradesh,MP,Central,54.9,93.6,89.8,70.4,35.4,67.9,176.8,64.2,73.3,49.0,2.38,58.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_026,Madhya Pradesh District 26,Madhya Pradesh,MP,Central,48.1,93.2,89.4,73.9,30.1,67.7,207.5,64.0,76.8,36.3,1.72,70.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_027,Madhya Pradesh District 27,Madhya Pradesh,MP,Central,55.5,89.3,91.3,75.9,40.9,66.8,195.0,67.4,64.9,39.0,1.64,45.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_028,Madhya Pradesh District 28,Madhya Pradesh,MP,Central,69.0,98.9,98.3,80.4,45.9,79.5,125.2,66.6,58.5,41.6,1.64,45.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_029,Madhya Pradesh District 29,Madhya Pradesh,MP,Central,59.2,96.7,90.4,81.2,43.1,67.1,140.9,66.7,64.0,39.5,2.04,47.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_030,Madhya Pradesh District 30,Madhya Pradesh,MP,Central,51.6,88.2,89.0,73.1,36.4,61.1,202.2,62.7,76.5,43.8,2.83,65.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_031,Madhya Pradesh District 31,Madhya Pradesh,MP,Central,45.8,90.3,91.3,74.0,25.8,58.6,180.1,64.7,84.6,56.7,1.48,69.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_032,Madhya Pradesh District 32,Madhya Pradesh,MP,Central,55.8,94.2,93.2,74.2,39.2,73.0,163.7,70.0,63.9,37.1,1.69,59.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_033,Madhya Pradesh District 33,Madhya Pradesh,MP,Central,55.6,93.9,93.6,77.5,32.0,67.4,165.9,64.5,70.3,36.1,1.26,55.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_034,Madhya Pradesh District 34,Madhya Pradesh,MP,Central,49.8,91.6,97.3,80.5,43.8,69.6,182.8,64.3,67.6,51.2,0.6,66.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_035,Madhya Pradesh District 35,Madhya Pradesh,MP,Central,47.3,86.3,90.7,77.1,24.7,65.2,181.8,62.7,79.1,49.3,1.62,65.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_036,Madhya Pradesh District 36,Madhya Pradesh,MP,Central,62.6,95.4,92.3,80.2,46.7,73.1,159.6,76.0,69.8,35.2,1.74,33.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_037,Madhya Pradesh District 37,Madhya Pradesh,MP,Central,50.3,91.1,90.8,74.7,27.4,63.2,182.4,69.6,73.3,48.0,1.85,57.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_038,Madhya Pradesh District 38,Madhya Pradesh,MP,Central,53.4,94.7,93.6,79.2,35.4,71.7,189.9,64.4,67.8,49.2,1.8,52.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_039,Madhya Pradesh District 39,Madhya Pradesh,MP,Central,33.6,80.9,76.7,60.5,20.8,54.8,246.6,49.3,95.5,65.0,1.64,88.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_040,Madhya Pradesh District 40,Madhya Pradesh,MP,Central,49.6,87.2,92.2,70.5,29.5,59.4,190.8,56.5,76.4,56.8,1.05,74.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_041,Madhya Pradesh District 41,Madhya Pradesh,MP,Central,42.9,90.4,85.3,65.9,34.1,52.6,211.3,56.4,93.0,55.9,1.86,75.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_042,Madhya Pradesh District 42,Madhya Pradesh,MP,Central,46.5,89.4,89.1,70.3,38.3,63.6,165.3,63.0,75.5,50.2,0.91,57.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_043,Madhya Pradesh District 43,Madhya Pradesh,MP,Central,69.3,96.8,96.4,84.7,51.1,77.4,132.8,75.0,55.7,23.8,1.55,45.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_044,Madhya Pradesh District 44,Madhya Pradesh,MP,Central,52.7,97.3,93.2,74.9,41.5,70.3,171.2,65.8,72.3,48.4,1.58,45.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_045,Madhya Pradesh District 45,Madhya Pradesh,MP,Central,55.2,86.7,88.6,73.0,27.7,57.5,179.8,63.4,75.6,48.5,1.63,71.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_046,Madhya Pradesh District 46,Madhya Pradesh,MP,Central,49.3,89.1,92.5,79.8,31.9,66.4,181.3,61.4,74.0,40.4,1.04,64.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_047,Madhya Pradesh District 47,Madhya Pradesh,MP,Central,50.3,89.0,87.9,74.4,28.0,69.3,165.2,62.7,70.3,45.5,1.96,61.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_048,Madhya Pradesh District 48,Madhya Pradesh,MP,Central,60.3,95.7,92.6,76.6,42.6,71.3,161.7,69.9,66.6,50.5,0.97,48.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_049,Madhya Pradesh District 49,Madhya Pradesh,MP,Central,55.9,94.5,91.2,81.3,39.6,71.5,166.0,65.5,63.4,53.6,1.91,50.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_050,Madhya Pradesh District 50,Madhya Pradesh,MP,Central,57.6,98.6,89.7,79.7,33.7,62.7,163.6,69.1,66.2,57.0,1.65,51.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_051,Madhya Pradesh District 51,Madhya Pradesh,MP,Central,55.0,93.7,93.1,77.8,46.9,74.0,163.4,61.3,66.5,45.9,2.92,60.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MP_052,Madhya Pradesh District 52,Madhya Pradesh,MP,Central,65.9,94.4,91.2,85.8,43.4,76.4,126.3,72.5,61.0,32.0,1.82,49.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_001,Jaipur,Rajasthan,RJ,Central,38.7,92.1,93.1,75.9,39.4,60.8,124.7,51.0,84.0,57.4,2.28,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_002,Jodhpur,Rajasthan,RJ,Central,57.6,99.3,100.0,82.0,43.3,67.0,89.9,63.9,78.2,44.1,1.75,39.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_003,Kota,Rajasthan,RJ,Central,50.0,97.6,93.8,75.5,33.0,59.4,101.4,58.0,70.0,56.5,2.76,55.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_004,Bikaner,Rajasthan,RJ,Central,32.4,85.7,86.8,67.3,22.3,53.1,144.8,48.4,91.3,65.0,1.79,75.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_005,Ajmer,Rajasthan,RJ,Central,37.2,85.8,90.0,63.1,31.8,57.5,130.6,44.3,96.4,63.8,1.87,65.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_006,Udaipur,Rajasthan,RJ,Central,45.8,95.4,90.5,72.1,37.6,66.2,101.9,58.9,78.1,51.8,2.69,49.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_007,Bhilwara,Rajasthan,RJ,Central,52.0,91.8,93.8,77.1,25.7,69.5,105.5,58.3,75.9,54.0,2.77,60.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_008,Alwar,Rajasthan,RJ,Central,44.8,85.9,93.5,70.6,36.7,60.3,140.4,52.9,73.5,58.4,1.81,71.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_009,Barmer,Rajasthan,RJ,Central,61.0,97.2,97.8,84.6,38.0,77.5,92.3,67.8,57.7,51.0,2.76,37.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_010,Jaisalmer,Rajasthan,RJ,Central,56.2,93.8,99.5,84.8,41.8,73.5,76.0,57.4,69.6,47.1,2.21,55.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_011,Banswara,Rajasthan,RJ,Central,57.1,96.8,98.8,79.7,50.6,65.7,126.6,60.6,64.0,47.4,2.82,58.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_012,Dungarpur,Rajasthan,RJ,Central,61.2,98.4,100.0,84.5,50.3,65.6,91.4,62.4,73.6,49.6,2.48,48.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_013,Rajasthan District 13,Rajasthan,RJ,Central,46.8,96.3,92.5,78.2,28.6,56.6,135.5,53.4,81.1,58.5,2.44,66.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_014,Rajasthan District 14,Rajasthan,RJ,Central,57.0,97.6,100.0,77.3,44.2,64.5,88.2,58.6,66.2,47.8,1.95,58.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_015,Rajasthan District 15,Rajasthan,RJ,Central,41.3,96.7,92.0,76.6,37.8,63.8,133.2,57.3,73.4,52.9,3.18,63.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_016,Rajasthan District 16,Rajasthan,RJ,Central,58.7,100.0,100.0,82.4,44.4,71.3,104.7,58.4,57.6,38.2,1.94,45.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_017,Rajasthan District 17,Rajasthan,RJ,Central,50.8,93.0,97.4,83.5,35.4,70.7,111.8,63.2,77.2,47.1,3.19,54.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_018,Rajasthan District 18,Rajasthan,RJ,Central,46.1,97.4,90.4,73.7,40.8,65.9,117.8,57.9,80.1,53.9,2.88,71.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_019,Rajasthan District 19,Rajasthan,RJ,Central,74.2,100.0,100.0,90.5,67.8,81.5,51.6,69.6,59.5,36.6,2.59,31.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_020,Rajasthan District 20,Rajasthan,RJ,Central,37.4,89.8,93.8,68.5,22.0,53.2,130.1,53.3,94.9,65.0,2.34,78.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_021,Rajasthan District 21,Rajasthan,RJ,Central,47.6,93.6,91.1,78.7,37.5,66.9,116.2,56.6,71.5,55.5,2.23,54.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_022,Rajasthan District 22,Rajasthan,RJ,Central,51.2,93.3,94.2,79.5,34.5,66.7,100.3,61.3,86.1,55.6,1.81,54.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_023,Rajasthan District 23,Rajasthan,RJ,Central,54.0,100.0,97.1,83.0,42.1,74.0,80.1,65.0,65.1,44.8,2.15,42.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_024,Rajasthan District 24,Rajasthan,RJ,Central,56.7,93.6,99.0,83.9,36.7,61.7,112.0,57.1,82.8,50.8,2.22,50.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_025,Rajasthan District 25,Rajasthan,RJ,Central,56.9,99.6,100.0,82.4,46.4,71.6,97.2,65.4,65.3,42.0,2.23,38.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_026,Rajasthan District 26,Rajasthan,RJ,Central,58.4,93.5,94.3,77.1,43.2,68.1,105.4,56.3,73.5,53.4,1.5,62.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_027,Rajasthan District 27,Rajasthan,RJ,Central,33.6,94.1,89.0,75.6,28.4,57.1,145.8,48.1,85.8,55.5,2.03,77.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_028,Rajasthan District 28,Rajasthan,RJ,Central,46.8,90.4,98.3,79.7,40.3,62.5,98.0,62.0,76.9,51.7,1.86,70.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_029,Rajasthan District 29,Rajasthan,RJ,Central,53.9,97.8,92.5,76.3,42.1,56.3,111.7,53.2,72.9,52.9,2.07,57.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_030,Rajasthan District 30,Rajasthan,RJ,Central,48.3,95.5,88.2,77.7,28.6,58.9,136.4,49.6,88.8,59.5,2.26,65.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_031,Rajasthan District 31,Rajasthan,RJ,Central,36.3,91.2,88.9,73.1,37.2,63.6,132.3,52.4,91.6,59.2,2.43,62.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_032,Rajasthan District 32,Rajasthan,RJ,Central,55.9,94.8,97.5,79.3,40.6,59.5,101.7,62.7,68.8,43.0,2.22,57.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+RJ_033,Rajasthan District 33,Rajasthan,RJ,Central,44.5,97.7,96.8,75.5,38.8,65.5,125.5,51.3,81.9,56.8,1.94,78.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_001,Chhattisgarh District 1,Chhattisgarh,CG,Central,63.7,81.0,92.8,74.6,44.0,73.8,147.4,71.4,73.6,39.1,2.54,57.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_002,Chhattisgarh District 2,Chhattisgarh,CG,Central,66.5,88.9,89.7,76.4,49.2,73.1,122.4,66.6,76.6,45.5,2.81,51.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_003,Chhattisgarh District 3,Chhattisgarh,CG,Central,63.4,86.7,90.7,80.4,43.7,71.4,123.3,69.8,83.6,45.0,2.26,68.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_004,Chhattisgarh District 4,Chhattisgarh,CG,Central,68.3,84.7,91.8,76.8,45.0,74.9,118.8,69.5,65.6,46.6,2.83,42.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_005,Chhattisgarh District 5,Chhattisgarh,CG,Central,68.0,92.4,91.7,82.1,52.3,82.7,100.6,74.6,74.5,51.7,2.72,45.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_006,Chhattisgarh District 6,Chhattisgarh,CG,Central,70.3,93.4,91.8,80.7,58.1,77.2,99.0,71.1,72.2,42.4,3.03,56.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_007,Chhattisgarh District 7,Chhattisgarh,CG,Central,49.4,79.4,82.8,70.6,38.3,63.4,168.5,59.8,83.0,52.3,2.35,75.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_008,Chhattisgarh District 8,Chhattisgarh,CG,Central,63.0,84.8,91.5,73.8,43.1,82.1,123.8,63.5,80.2,48.4,1.47,72.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_009,Chhattisgarh District 9,Chhattisgarh,CG,Central,42.4,75.2,84.6,72.7,32.1,65.9,187.7,64.3,87.9,47.3,1.36,76.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_010,Chhattisgarh District 10,Chhattisgarh,CG,Central,59.6,87.9,90.4,75.3,48.2,72.6,143.5,68.7,79.2,38.5,3.33,60.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_011,Chhattisgarh District 11,Chhattisgarh,CG,Central,63.0,88.9,87.7,72.2,48.1,74.7,116.5,66.7,69.9,39.8,2.1,66.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_012,Chhattisgarh District 12,Chhattisgarh,CG,Central,59.0,88.9,85.1,78.7,43.3,72.5,140.5,69.6,82.6,47.6,2.36,56.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_013,Chhattisgarh District 13,Chhattisgarh,CG,Central,65.6,86.4,84.4,79.0,48.5,71.9,117.6,72.8,77.8,36.7,2.3,52.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_014,Chhattisgarh District 14,Chhattisgarh,CG,Central,74.1,89.8,94.4,81.2,61.5,85.1,102.7,72.7,53.3,28.4,1.73,45.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_015,Chhattisgarh District 15,Chhattisgarh,CG,Central,55.0,83.7,88.2,77.1,35.7,70.6,127.6,68.3,83.3,43.4,2.0,61.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_016,Chhattisgarh District 16,Chhattisgarh,CG,Central,44.5,75.7,82.1,62.5,26.3,54.7,174.5,51.5,98.0,64.0,2.09,84.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_017,Chhattisgarh District 17,Chhattisgarh,CG,Central,51.1,82.2,80.4,73.2,32.8,63.8,171.3,58.4,87.1,55.9,2.26,60.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_018,Chhattisgarh District 18,Chhattisgarh,CG,Central,49.1,81.1,79.0,67.2,33.2,64.2,152.9,54.7,89.8,65.0,2.72,80.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_019,Chhattisgarh District 19,Chhattisgarh,CG,Central,51.9,83.7,83.1,67.3,39.0,66.7,155.6,60.8,93.0,55.0,2.93,74.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_020,Chhattisgarh District 20,Chhattisgarh,CG,Central,68.7,92.3,89.4,86.4,53.9,84.4,115.9,70.5,74.1,47.3,3.1,40.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_021,Chhattisgarh District 21,Chhattisgarh,CG,Central,60.4,82.6,91.3,76.0,32.6,72.2,139.6,65.5,77.4,53.0,2.76,65.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_022,Chhattisgarh District 22,Chhattisgarh,CG,Central,59.5,84.5,84.9,77.1,45.0,75.9,159.5,63.5,83.6,54.1,1.97,61.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_023,Chhattisgarh District 23,Chhattisgarh,CG,Central,54.8,74.1,79.9,71.5,38.4,65.7,140.6,59.3,86.9,54.5,2.66,79.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_024,Chhattisgarh District 24,Chhattisgarh,CG,Central,63.3,86.8,86.2,78.8,53.1,77.6,145.1,68.7,80.4,53.4,2.31,55.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_025,Chhattisgarh District 25,Chhattisgarh,CG,Central,73.7,88.3,91.4,84.5,50.5,73.0,147.2,69.9,71.9,39.6,2.92,45.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_026,Chhattisgarh District 26,Chhattisgarh,CG,Central,58.4,86.2,89.8,77.6,41.4,79.6,132.7,73.1,73.5,42.2,2.0,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_027,Chhattisgarh District 27,Chhattisgarh,CG,Central,57.6,79.2,79.1,75.2,34.8,64.0,141.7,66.1,79.8,52.2,2.43,76.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+CG_028,Chhattisgarh District 28,Chhattisgarh,CG,Central,56.0,83.4,88.4,74.4,46.1,74.8,149.9,63.4,88.3,52.1,2.75,67.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_001,Patna,Bihar,BR,East,40.3,85.5,80.8,74.5,37.4,68.7,58.1,61.9,71.6,45.2,1.95,34.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_002,Gaya,Bihar,BR,East,13.5,68.5,69.9,52.0,8.0,46.4,136.8,45.2,98.0,65.0,0.81,73.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_003,Bhagalpur,Bihar,BR,East,16.1,78.4,76.6,55.9,17.6,51.2,135.8,50.3,90.3,59.2,1.45,78.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_004,Muzaffarpur,Bihar,BR,East,19.8,70.6,73.7,58.3,8.0,49.7,113.4,45.9,94.2,65.0,0.74,77.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_005,Purnia,Bihar,BR,East,32.0,77.3,81.4,66.0,27.2,61.3,102.9,56.2,79.8,53.0,1.05,53.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_006,Darbhanga,Bihar,BR,East,31.1,79.2,80.9,64.1,19.9,53.3,93.9,60.4,79.5,53.9,1.19,54.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_007,Rohtas,Bihar,BR,East,19.5,74.8,70.9,54.2,14.9,47.7,115.1,44.9,96.1,65.0,0.78,73.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_008,Samastipur,Bihar,BR,East,36.6,85.3,86.9,73.7,30.3,57.1,91.4,66.2,76.6,50.9,2.09,45.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_009,East Champaran,Bihar,BR,East,35.6,73.8,80.7,71.1,23.1,60.4,81.6,66.3,88.4,50.8,0.9,42.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_010,West Champaran,Bihar,BR,East,32.2,81.1,81.0,74.0,18.7,52.8,99.8,53.7,76.3,50.7,0.85,46.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_011,Madhubani,Bihar,BR,East,27.8,77.9,82.0,62.4,21.0,58.9,83.3,50.7,86.3,65.0,1.52,54.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_012,Kishanganj,Bihar,BR,East,31.5,80.5,85.1,59.8,26.0,66.4,103.4,64.5,79.0,48.7,1.29,36.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_013,Araria,Bihar,BR,East,11.4,73.6,75.5,57.2,12.7,47.1,158.1,48.6,98.0,65.0,1.18,71.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_014,Sheohar,Bihar,BR,East,29.5,77.2,83.2,66.7,23.7,63.3,89.2,59.8,87.9,62.4,1.99,46.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_015,Bihar District 15,Bihar,BR,East,32.3,78.8,76.6,73.3,24.0,61.6,80.0,63.9,77.0,50.6,0.71,36.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_016,Bihar District 16,Bihar,BR,East,10.7,68.7,75.1,52.0,8.0,49.6,129.9,56.4,98.0,62.7,0.91,74.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_017,Bihar District 17,Bihar,BR,East,14.9,73.7,75.1,57.8,15.5,48.6,117.3,52.0,95.4,65.0,0.77,56.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_018,Bihar District 18,Bihar,BR,East,19.4,72.0,74.2,64.8,10.5,58.9,136.0,52.1,95.7,57.3,2.44,60.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_019,Bihar District 19,Bihar,BR,East,18.9,68.2,75.0,63.4,13.1,49.1,127.2,53.5,90.6,65.0,2.13,70.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_020,Bihar District 20,Bihar,BR,East,28.7,79.2,75.7,60.5,12.8,55.8,126.3,50.9,86.5,55.8,0.69,63.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_021,Bihar District 21,Bihar,BR,East,17.9,68.6,75.5,58.3,9.8,49.6,136.3,48.5,87.2,59.0,2.11,68.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_022,Bihar District 22,Bihar,BR,East,46.1,77.0,82.8,65.0,23.6,58.4,82.3,60.4,73.2,49.9,1.73,50.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_023,Bihar District 23,Bihar,BR,East,20.0,75.0,73.1,58.7,11.3,49.0,102.9,56.5,89.0,62.5,1.82,57.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_024,Bihar District 24,Bihar,BR,East,24.9,76.5,73.6,57.4,8.0,49.5,133.3,42.9,90.8,61.5,1.31,72.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_025,Bihar District 25,Bihar,BR,East,13.3,74.1,74.3,56.7,13.7,49.7,159.0,47.7,95.1,63.0,0.71,78.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_026,Bihar District 26,Bihar,BR,East,39.6,76.6,85.4,63.1,31.5,61.2,97.8,58.2,84.2,51.2,0.64,38.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_027,Bihar District 27,Bihar,BR,East,10.6,73.9,77.8,53.6,9.5,44.8,162.6,44.3,98.0,65.0,1.54,80.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_028,Bihar District 28,Bihar,BR,East,27.6,73.0,77.4,67.5,22.4,58.6,119.6,55.6,94.2,49.5,2.0,52.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_029,Bihar District 29,Bihar,BR,East,35.4,79.8,79.6,67.0,22.4,69.1,88.9,62.0,81.2,55.7,1.73,50.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_030,Bihar District 30,Bihar,BR,East,18.8,75.7,74.1,58.9,15.1,53.3,110.5,53.7,92.6,64.1,1.62,77.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_031,Bihar District 31,Bihar,BR,East,41.4,85.9,83.7,69.0,31.8,65.1,84.5,63.7,77.7,55.2,0.92,44.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_032,Bihar District 32,Bihar,BR,East,36.9,83.2,85.7,75.8,35.2,67.9,59.4,62.8,73.9,45.6,0.69,38.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_033,Bihar District 33,Bihar,BR,East,22.5,75.5,70.1,54.4,8.0,46.2,148.8,48.4,98.0,65.0,0.61,68.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_034,Bihar District 34,Bihar,BR,East,25.0,72.7,75.0,65.1,19.9,58.0,121.6,55.5,80.0,55.0,1.18,71.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_035,Bihar District 35,Bihar,BR,East,36.4,80.8,78.6,65.9,24.3,55.7,98.3,58.2,91.2,62.7,0.6,46.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_036,Bihar District 36,Bihar,BR,East,17.7,72.5,75.7,57.6,16.1,48.2,146.3,48.5,98.0,62.2,0.95,74.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_037,Bihar District 37,Bihar,BR,East,10.0,62.1,69.9,54.2,8.0,47.3,146.8,47.0,98.0,65.0,0.6,84.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+BR_038,Bihar District 38,Bihar,BR,East,12.8,71.9,74.1,58.0,10.4,51.4,132.7,44.4,95.0,65.0,0.6,64.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_001,Jharkhand District 1,Jharkhand,JH,East,43.1,73.8,82.4,66.9,36.7,60.1,42.3,62.6,72.4,45.5,1.12,57.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_002,Jharkhand District 2,Jharkhand,JH,East,41.7,81.5,85.8,74.7,43.8,68.1,24.3,68.8,65.7,44.1,1.32,40.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_003,Jharkhand District 3,Jharkhand,JH,East,30.1,77.0,68.7,65.5,24.1,51.3,73.2,57.7,83.7,61.6,0.6,62.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_004,Jharkhand District 4,Jharkhand,JH,East,45.5,76.2,83.4,69.7,25.4,68.2,31.6,60.8,68.4,47.7,1.62,55.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_005,Jharkhand District 5,Jharkhand,JH,East,23.1,69.8,78.8,60.4,22.8,52.4,79.7,51.5,85.8,65.0,1.77,78.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_006,Jharkhand District 6,Jharkhand,JH,East,43.8,79.6,81.8,74.3,36.0,69.8,18.7,66.3,69.8,55.2,0.6,44.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_007,Jharkhand District 7,Jharkhand,JH,East,20.4,67.4,71.2,60.2,16.3,49.1,106.0,48.1,98.0,65.0,0.83,84.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_008,Jharkhand District 8,Jharkhand,JH,East,41.1,74.3,82.6,72.3,40.6,61.1,52.0,71.2,67.5,38.4,0.92,50.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_009,Jharkhand District 9,Jharkhand,JH,East,39.8,82.5,78.5,65.0,37.2,56.4,41.1,72.1,71.3,40.7,1.0,52.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_010,Jharkhand District 10,Jharkhand,JH,East,40.8,73.6,83.9,68.9,32.6,59.3,67.9,59.7,76.0,46.0,1.08,62.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_011,Jharkhand District 11,Jharkhand,JH,East,30.3,72.1,79.2,63.3,24.7,57.7,42.8,52.7,81.1,62.7,1.17,71.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_012,Jharkhand District 12,Jharkhand,JH,East,49.6,78.6,83.5,69.2,43.7,71.0,40.3,64.7,76.9,44.5,1.43,56.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_013,Jharkhand District 13,Jharkhand,JH,East,38.4,73.8,75.1,68.5,32.7,60.0,71.5,57.9,70.0,50.0,1.47,63.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_014,Jharkhand District 14,Jharkhand,JH,East,35.3,78.1,76.1,67.3,18.5,59.1,85.6,57.9,82.0,50.8,0.6,65.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_015,Jharkhand District 15,Jharkhand,JH,East,29.2,70.5,73.3,59.3,18.3,58.0,69.6,52.7,81.4,59.8,1.65,53.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_016,Jharkhand District 16,Jharkhand,JH,East,50.8,77.2,80.6,71.2,33.1,67.1,10.2,61.9,75.4,55.5,1.08,49.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_017,Jharkhand District 17,Jharkhand,JH,East,23.9,67.9,71.1,59.1,16.8,51.7,109.9,50.9,83.5,65.0,1.29,86.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_018,Jharkhand District 18,Jharkhand,JH,East,62.1,86.4,88.9,79.1,39.3,74.6,18.4,70.8,59.0,33.6,1.88,28.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_019,Jharkhand District 19,Jharkhand,JH,East,25.6,67.9,73.0,66.6,17.2,54.6,72.4,57.5,90.6,58.4,1.89,70.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_020,Jharkhand District 20,Jharkhand,JH,East,33.8,68.7,76.2,64.6,17.3,56.5,91.4,58.2,83.1,51.6,0.92,75.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_021,Jharkhand District 21,Jharkhand,JH,East,36.2,70.7,80.5,73.6,30.8,62.6,61.6,61.1,80.1,49.7,1.68,54.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_022,Jharkhand District 22,Jharkhand,JH,East,36.1,73.9,78.9,67.5,30.0,62.9,62.4,54.3,76.2,45.7,1.52,71.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_023,Jharkhand District 23,Jharkhand,JH,East,39.6,80.2,78.1,69.8,29.1,60.6,43.6,65.4,72.9,36.7,1.81,65.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+JH_024,Jharkhand District 24,Jharkhand,JH,East,46.4,79.6,84.1,79.5,29.3,69.1,21.9,65.3,66.2,44.1,1.31,40.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_001,Khordha,Odisha,OD,East,71.1,98.0,96.5,86.3,67.2,80.1,96.8,71.1,77.4,41.2,1.68,49.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_002,Cuttack,Odisha,OD,East,61.8,84.7,92.0,86.1,64.1,74.6,145.5,60.1,97.0,54.6,2.45,76.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_003,Sundargarh,Odisha,OD,East,64.8,92.5,89.8,86.5,52.6,74.0,113.7,70.6,82.3,42.2,1.49,62.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_004,Ganjam,Odisha,OD,East,54.5,93.2,86.8,77.8,48.4,70.5,152.4,66.0,91.2,57.5,1.54,73.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_005,Puri,Odisha,OD,East,75.4,100.0,100.0,92.3,70.8,90.2,74.2,78.3,67.8,41.7,1.82,42.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_006,Sambalpur,Odisha,OD,East,73.6,92.5,92.4,84.1,60.6,77.0,107.5,69.5,91.9,48.0,0.85,67.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_007,Balasore,Odisha,OD,East,72.3,93.0,92.2,78.6,60.4,77.1,106.7,68.9,91.0,50.2,3.18,55.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_008,Kalahandi,Odisha,OD,East,60.2,92.2,88.3,71.7,52.6,75.0,125.9,63.8,95.0,49.9,2.07,80.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_009,Koraput,Odisha,OD,East,60.0,84.8,95.0,84.5,56.0,75.1,121.5,64.3,84.4,46.7,1.15,63.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_010,Malkangiri,Odisha,OD,East,73.6,97.0,99.1,90.9,65.2,82.6,93.8,75.3,86.8,52.9,2.25,43.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_011,Nabarangpur,Odisha,OD,East,61.8,88.1,92.3,78.9,46.6,71.3,126.0,60.0,97.4,59.1,2.49,63.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_012,Odisha District 12,Odisha,OD,East,61.3,94.0,90.6,79.7,56.1,74.7,144.7,65.5,79.2,47.7,1.13,60.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_013,Odisha District 13,Odisha,OD,East,60.6,88.1,87.9,81.6,50.6,67.7,138.0,64.3,96.7,49.8,2.18,80.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_014,Odisha District 14,Odisha,OD,East,61.8,93.1,88.9,76.2,48.8,77.5,138.7,65.2,86.8,46.2,2.32,70.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_015,Odisha District 15,Odisha,OD,East,59.2,87.3,89.7,80.9,54.2,62.7,125.4,64.5,96.7,54.7,1.61,77.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_016,Odisha District 16,Odisha,OD,East,58.8,84.4,87.1,75.7,45.9,79.7,158.0,65.8,96.3,54.8,1.38,82.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_017,Odisha District 17,Odisha,OD,East,64.7,90.6,94.8,79.2,47.9,72.6,155.0,59.5,79.8,50.1,2.14,70.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_018,Odisha District 18,Odisha,OD,East,74.7,90.9,100.0,86.4,61.6,88.1,93.6,74.7,78.2,39.5,2.59,57.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_019,Odisha District 19,Odisha,OD,East,53.1,80.9,88.7,74.4,40.0,68.2,176.7,59.9,95.2,56.6,1.88,85.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_020,Odisha District 20,Odisha,OD,East,67.9,96.3,95.5,85.9,61.4,82.7,59.3,71.7,72.9,37.6,2.34,49.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_021,Odisha District 21,Odisha,OD,East,85.2,100.0,98.0,94.0,69.3,87.5,90.0,76.4,78.4,43.1,2.03,50.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_022,Odisha District 22,Odisha,OD,East,72.4,97.8,99.4,92.5,62.0,83.0,108.2,73.1,73.5,40.7,2.81,43.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_023,Odisha District 23,Odisha,OD,East,62.3,84.8,89.4,81.3,57.3,75.8,129.7,68.4,88.8,47.9,1.54,79.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_024,Odisha District 24,Odisha,OD,East,70.0,97.5,90.4,81.7,53.5,81.1,117.4,75.2,83.2,42.3,1.92,58.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_025,Odisha District 25,Odisha,OD,East,63.9,86.6,87.6,78.2,49.0,68.4,148.2,62.3,98.0,62.9,1.74,81.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_026,Odisha District 26,Odisha,OD,East,79.7,95.3,97.0,90.8,61.3,83.5,104.5,70.8,89.0,40.6,1.47,59.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_027,Odisha District 27,Odisha,OD,East,71.1,96.9,99.8,88.2,74.4,77.7,111.6,77.1,82.1,39.2,2.01,54.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_028,Odisha District 28,Odisha,OD,East,77.6,98.5,94.0,88.1,61.1,82.6,113.2,74.5,89.8,45.1,2.19,50.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_029,Odisha District 29,Odisha,OD,East,63.0,92.7,91.3,79.1,50.2,73.6,133.9,69.8,81.7,46.4,1.96,56.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+OD_030,Odisha District 30,Odisha,OD,East,59.1,86.5,90.7,80.1,50.2,75.3,158.0,70.0,80.4,44.2,2.36,70.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_001,Kolkata,West Bengal,WB,East,71.2,90.5,89.8,79.2,44.5,79.6,119.0,76.5,68.8,41.9,1.93,71.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_002,North 24 Parganas,West Bengal,WB,East,72.9,92.0,89.7,83.0,51.8,82.9,101.1,76.4,64.4,35.4,2.12,59.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_003,South 24 Parganas,West Bengal,WB,East,70.9,88.9,93.1,80.9,53.0,83.7,100.3,74.3,67.7,48.3,1.65,62.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_004,Howrah,West Bengal,WB,East,79.2,90.4,92.0,82.1,48.5,74.2,101.6,84.2,66.0,27.6,1.16,52.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_005,Hooghly,West Bengal,WB,East,68.6,89.7,86.0,81.0,47.8,81.2,159.8,67.8,90.4,46.7,1.64,74.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_006,Darjeeling,West Bengal,WB,East,70.6,85.6,90.0,84.8,44.7,78.2,121.5,76.4,64.5,34.5,2.06,68.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_007,Malda,West Bengal,WB,East,79.0,93.3,92.0,87.6,62.6,87.2,63.6,80.5,52.2,31.3,1.29,40.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_008,Murshidabad,West Bengal,WB,East,83.4,96.6,96.3,91.8,60.8,88.9,85.3,81.6,61.9,31.5,1.65,45.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_009,Purulia,West Bengal,WB,East,67.9,91.1,94.3,85.1,40.8,82.6,109.2,75.4,67.2,39.0,1.86,56.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_010,Bankura,West Bengal,WB,East,84.1,93.8,98.5,86.4,57.3,77.8,118.6,83.9,61.8,31.2,0.91,44.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_011,West Bengal District 11,West Bengal,WB,East,79.4,90.9,97.3,88.5,56.5,83.9,76.2,81.5,63.2,38.7,1.17,67.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_012,West Bengal District 12,West Bengal,WB,East,81.4,91.8,91.7,81.8,55.5,78.5,112.7,74.2,66.1,36.0,2.26,58.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_013,West Bengal District 13,West Bengal,WB,East,89.4,98.3,95.5,88.0,58.1,89.0,66.2,84.5,59.5,24.0,1.03,43.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_014,West Bengal District 14,West Bengal,WB,East,80.2,92.1,90.4,84.2,47.3,81.8,111.6,79.3,68.6,39.6,2.54,56.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_015,West Bengal District 15,West Bengal,WB,East,94.1,98.6,100.0,99.0,65.7,92.8,52.3,90.4,56.8,24.3,2.06,42.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_016,West Bengal District 16,West Bengal,WB,East,75.1,89.6,92.7,82.0,46.7,78.1,126.0,72.2,66.9,44.4,2.75,49.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_017,West Bengal District 17,West Bengal,WB,East,63.1,86.7,82.8,80.7,40.5,78.0,95.9,73.2,70.5,47.0,2.48,71.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_018,West Bengal District 18,West Bengal,WB,East,78.4,86.0,88.0,82.0,55.9,78.6,108.0,70.0,75.4,47.6,2.23,60.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_019,West Bengal District 19,West Bengal,WB,East,63.7,89.0,87.4,76.8,42.3,75.4,112.1,73.6,74.1,41.6,1.67,62.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_020,West Bengal District 20,West Bengal,WB,East,75.6,87.9,95.7,81.8,50.5,85.6,111.8,76.8,65.4,39.3,2.23,55.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_021,West Bengal District 21,West Bengal,WB,East,60.2,88.8,89.6,83.3,44.8,80.7,112.1,75.1,71.8,31.7,2.15,70.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_022,West Bengal District 22,West Bengal,WB,East,56.4,84.6,84.0,70.8,37.8,69.0,140.8,65.3,97.2,59.2,2.32,86.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+WB_023,West Bengal District 23,West Bengal,WB,East,67.2,90.5,92.2,79.1,45.9,75.9,98.9,79.5,72.3,31.2,1.99,46.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_001,Kamrup Metropolitan,Assam,AS,Northeast,29.7,74.2,79.2,61.4,25.8,55.5,233.8,71.0,94.1,48.5,2.49,79.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_002,Kamrup,Assam,AS,Northeast,59.7,85.2,89.2,78.5,43.1,74.0,178.9,87.6,71.2,25.5,2.24,53.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_003,Dibrugarh,Assam,AS,Northeast,36.6,75.5,78.3,60.8,23.6,60.6,230.3,70.2,98.0,47.5,2.42,82.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_004,Silchar,Assam,AS,Northeast,42.7,77.6,86.5,69.3,34.2,60.2,212.2,71.9,89.5,50.5,2.7,66.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_005,Jorhat,Assam,AS,Northeast,44.5,81.6,81.4,62.1,23.9,54.5,249.1,68.3,96.1,56.7,2.09,90.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_006,Nagaon,Assam,AS,Northeast,64.7,89.8,84.0,81.7,49.1,76.4,162.0,81.6,76.5,39.2,2.58,47.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_007,Barpeta,Assam,AS,Northeast,52.8,86.4,88.8,76.5,46.1,72.5,206.6,87.1,81.5,39.6,0.6,49.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_008,Dhubri,Assam,AS,Northeast,40.9,79.5,84.8,64.5,27.3,63.1,220.1,74.7,88.4,41.7,1.86,71.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_009,Kokrajhar,Assam,AS,Northeast,54.6,89.7,88.6,75.7,52.6,77.5,167.7,88.1,71.6,40.7,2.11,40.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_010,Karbi Anglong,Assam,AS,Northeast,55.4,82.0,84.0,75.1,47.3,73.7,189.8,78.3,88.1,42.7,1.87,51.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_011,Assam District 11,Assam,AS,Northeast,52.3,81.4,82.3,72.4,34.7,76.6,206.9,75.0,82.0,37.0,1.45,62.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_012,Assam District 12,Assam,AS,Northeast,65.2,90.7,90.9,81.1,46.2,80.9,161.3,84.8,63.4,33.8,2.21,36.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_013,Assam District 13,Assam,AS,Northeast,45.5,76.8,86.1,67.8,30.4,58.7,216.1,80.5,95.8,48.1,1.91,67.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_014,Assam District 14,Assam,AS,Northeast,63.6,81.6,89.0,82.9,48.5,71.8,157.2,79.0,74.5,41.0,3.29,56.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_015,Assam District 15,Assam,AS,Northeast,60.2,93.3,90.6,77.1,48.3,76.7,169.8,79.9,79.5,41.9,2.67,40.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_016,Assam District 16,Assam,AS,Northeast,63.1,91.4,91.3,90.9,52.9,75.5,163.3,90.0,69.7,23.8,2.68,34.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_017,Assam District 17,Assam,AS,Northeast,27.4,80.7,82.8,63.3,29.2,54.2,236.3,66.3,98.0,58.7,2.2,85.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_018,Assam District 18,Assam,AS,Northeast,58.8,88.2,86.6,72.7,43.5,70.5,180.4,81.1,93.1,31.2,1.7,53.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_019,Assam District 19,Assam,AS,Northeast,47.0,84.2,88.1,66.8,32.5,65.9,212.5,81.7,93.7,36.5,2.27,61.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_020,Assam District 20,Assam,AS,Northeast,46.4,82.3,80.7,68.9,36.7,64.4,214.9,75.1,98.0,44.9,2.41,61.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_021,Assam District 21,Assam,AS,Northeast,42.7,84.6,86.7,70.4,35.8,70.9,192.3,78.9,85.4,46.6,2.34,57.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_022,Assam District 22,Assam,AS,Northeast,42.4,79.0,79.3,62.1,28.2,57.7,246.0,68.1,93.4,54.9,2.7,78.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_023,Assam District 23,Assam,AS,Northeast,54.7,87.6,91.8,78.5,42.0,75.2,151.7,87.1,72.0,30.4,2.02,51.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_024,Assam District 24,Assam,AS,Northeast,54.0,89.1,88.7,79.1,44.9,73.1,166.3,81.2,79.3,34.0,2.72,42.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_025,Assam District 25,Assam,AS,Northeast,54.2,89.0,86.4,70.9,40.1,68.0,180.6,78.7,84.7,41.1,2.17,53.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_026,Assam District 26,Assam,AS,Northeast,50.7,86.3,85.1,78.4,38.1,63.8,193.0,75.7,87.7,39.4,3.29,59.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_027,Assam District 27,Assam,AS,Northeast,35.8,74.2,78.1,61.1,27.4,59.5,233.9,65.0,98.0,43.1,1.96,83.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_028,Assam District 28,Assam,AS,Northeast,43.2,78.4,83.6,71.9,24.5,58.4,218.4,75.7,91.4,46.8,2.03,69.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_029,Assam District 29,Assam,AS,Northeast,45.0,90.9,83.5,73.0,38.6,73.8,175.7,84.0,88.5,32.8,2.49,61.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_030,Assam District 30,Assam,AS,Northeast,47.4,78.3,83.3,67.9,28.2,64.8,217.3,76.8,82.8,53.6,2.78,66.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_031,Assam District 31,Assam,AS,Northeast,64.3,88.2,92.7,85.8,48.5,76.2,160.4,87.6,73.7,33.2,2.41,34.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_032,Assam District 32,Assam,AS,Northeast,47.8,88.7,85.6,77.7,38.4,68.8,184.0,75.4,75.3,38.2,1.83,58.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AS_033,Assam District 33,Assam,AS,Northeast,56.1,85.9,86.5,79.7,50.7,76.9,181.3,84.7,86.3,39.9,2.45,46.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+SK_001,Sikkim District 1,Sikkim,SK,Northeast,54.1,89.0,90.8,83.3,43.7,75.0,84.7,78.2,79.1,41.6,3.47,76.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+SK_002,Sikkim District 2,Sikkim,SK,Northeast,76.7,97.7,100.0,88.7,65.3,83.8,47.8,94.6,68.3,24.4,2.74,56.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+SK_003,Sikkim District 3,Sikkim,SK,Northeast,74.1,92.1,96.0,88.2,59.2,86.5,46.7,90.7,70.7,16.4,3.36,56.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+SK_004,Sikkim District 4,Sikkim,SK,Northeast,67.4,90.9,98.0,84.4,57.1,86.4,30.5,85.5,72.4,23.7,4.45,69.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_001,Meghalaya District 1,Meghalaya,ML,Northeast,50.6,58.1,63.6,58.7,26.1,65.0,172.4,78.3,91.7,45.8,3.29,65.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_002,Meghalaya District 2,Meghalaya,ML,Northeast,43.9,45.1,56.9,46.4,21.1,55.3,209.3,71.9,86.4,49.2,2.43,81.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_003,Meghalaya District 3,Meghalaya,ML,Northeast,60.5,66.7,69.5,66.4,45.4,73.3,141.1,91.4,70.5,20.5,2.79,39.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_004,Meghalaya District 4,Meghalaya,ML,Northeast,66.7,61.4,67.0,66.3,36.2,73.8,139.3,93.0,63.9,25.0,3.61,43.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_005,Meghalaya District 5,Meghalaya,ML,Northeast,25.3,49.2,57.3,41.7,10.3,53.1,230.1,68.6,98.0,49.6,2.57,93.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_006,Meghalaya District 6,Meghalaya,ML,Northeast,50.8,64.8,61.0,57.6,36.6,62.5,188.8,77.2,75.9,42.7,3.27,65.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_007,Meghalaya District 7,Meghalaya,ML,Northeast,62.9,68.0,69.3,65.5,42.0,73.9,150.6,83.6,61.7,21.5,3.15,46.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_008,Meghalaya District 8,Meghalaya,ML,Northeast,58.4,58.6,71.0,65.4,36.5,70.0,163.2,86.2,72.3,35.9,3.08,63.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_009,Meghalaya District 9,Meghalaya,ML,Northeast,37.5,48.9,62.9,46.1,13.1,56.7,231.7,74.1,92.1,52.8,3.28,71.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_010,Meghalaya District 10,Meghalaya,ML,Northeast,47.3,54.4,63.0,57.7,30.8,64.5,184.2,80.8,76.8,37.5,2.96,63.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+ML_011,Meghalaya District 11,Meghalaya,ML,Northeast,52.0,58.4,73.3,59.2,33.5,64.3,167.5,81.2,78.8,29.0,2.25,52.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_001,Tripura District 1,Tripura,TR,Northeast,64.3,93.9,87.8,79.0,51.7,78.0,88.1,91.5,68.7,25.2,2.66,45.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_002,Tripura District 2,Tripura,TR,Northeast,63.8,89.1,91.1,77.5,39.1,78.5,82.9,83.4,77.1,39.6,3.36,56.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_003,Tripura District 3,Tripura,TR,Northeast,55.3,83.7,85.0,77.3,35.9,69.3,117.5,76.5,91.1,47.0,2.35,82.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_004,Tripura District 4,Tripura,TR,Northeast,50.5,86.3,88.4,72.8,30.8,71.1,126.5,73.1,78.8,45.6,2.8,74.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_005,Tripura District 5,Tripura,TR,Northeast,66.7,85.8,92.2,83.8,48.1,76.7,45.3,86.4,72.9,37.3,3.27,47.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_006,Tripura District 6,Tripura,TR,Northeast,55.3,85.8,87.3,68.4,32.0,69.3,113.2,80.2,83.8,39.4,2.85,78.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_007,Tripura District 7,Tripura,TR,Northeast,66.3,89.5,92.1,83.2,47.5,79.4,91.2,86.7,68.1,22.9,3.1,49.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+TR_008,Tripura District 8,Tripura,TR,Northeast,68.1,86.8,91.0,80.1,44.7,81.3,83.1,86.0,68.4,37.4,2.09,59.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_001,Manipur District 1,Manipur,MN,Northeast,64.4,76.2,80.8,71.8,35.5,69.5,109.0,77.1,79.8,36.2,4.04,58.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_002,Manipur District 2,Manipur,MN,Northeast,50.4,69.1,77.1,64.4,22.4,57.0,139.6,71.9,84.7,47.4,2.45,91.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_003,Manipur District 3,Manipur,MN,Northeast,67.3,80.7,81.8,78.6,46.2,70.8,82.3,85.4,66.9,24.2,3.08,60.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_004,Manipur District 4,Manipur,MN,Northeast,54.8,75.6,84.2,69.6,45.9,72.3,110.3,78.5,75.6,36.2,3.08,71.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_005,Manipur District 5,Manipur,MN,Northeast,56.2,72.3,85.8,70.9,38.0,65.8,120.1,77.0,79.4,40.7,2.76,68.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_006,Manipur District 6,Manipur,MN,Northeast,64.0,71.9,82.7,72.2,34.5,67.6,106.2,79.1,76.2,46.3,3.4,66.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_007,Manipur District 7,Manipur,MN,Northeast,56.2,76.9,78.7,62.2,30.4,60.9,137.4,69.0,83.0,47.2,2.75,78.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_008,Manipur District 8,Manipur,MN,Northeast,69.5,77.4,86.4,74.7,41.2,83.0,93.8,83.0,76.5,34.1,4.03,60.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_009,Manipur District 9,Manipur,MN,Northeast,59.0,74.7,80.9,70.1,38.6,69.6,99.2,74.3,76.0,46.1,3.07,64.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_010,Manipur District 10,Manipur,MN,Northeast,68.2,77.1,84.0,71.8,42.1,71.9,107.9,75.9,71.8,41.1,3.33,73.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_011,Manipur District 11,Manipur,MN,Northeast,69.8,75.9,86.0,74.5,37.2,73.4,100.0,82.2,72.8,41.1,3.06,64.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_012,Manipur District 12,Manipur,MN,Northeast,74.1,87.5,85.6,76.3,56.1,78.3,93.0,89.7,63.4,26.1,2.38,50.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_013,Manipur District 13,Manipur,MN,Northeast,83.4,82.4,90.6,82.1,56.8,83.4,43.0,88.5,55.7,29.7,3.11,47.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_014,Manipur District 14,Manipur,MN,Northeast,78.9,80.6,82.3,80.2,51.6,78.6,46.3,86.6,60.6,28.5,3.5,55.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_015,Manipur District 15,Manipur,MN,Northeast,62.2,75.2,82.0,67.5,40.3,69.5,106.6,76.8,77.9,33.7,3.42,72.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MN_016,Manipur District 16,Manipur,MN,Northeast,71.4,84.8,87.6,76.0,47.6,78.1,88.1,79.2,66.1,40.8,2.53,54.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_001,Mizoram District 1,Mizoram,MZ,Northeast,62.8,86.7,85.5,76.3,43.4,70.3,66.0,91.7,48.9,26.2,3.43,61.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_002,Mizoram District 2,Mizoram,MZ,Northeast,63.0,84.3,90.4,76.6,42.9,79.1,87.1,95.7,52.2,10.7,3.87,68.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_003,Mizoram District 3,Mizoram,MZ,Northeast,84.2,94.0,94.0,84.6,54.9,89.0,44.1,99.0,33.0,8.6,4.72,47.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_004,Mizoram District 4,Mizoram,MZ,Northeast,77.8,93.0,98.4,86.4,56.5,93.1,40.8,99.0,25.6,8.9,3.55,33.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_005,Mizoram District 5,Mizoram,MZ,Northeast,62.0,86.9,91.2,72.8,42.3,77.4,82.9,96.0,52.7,21.3,4.93,70.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_006,Mizoram District 6,Mizoram,MZ,Northeast,58.6,87.5,91.9,78.1,43.4,79.5,50.8,87.3,53.9,28.1,4.11,64.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_007,Mizoram District 7,Mizoram,MZ,Northeast,63.3,90.3,93.8,84.0,58.5,81.2,60.7,91.9,40.7,23.1,4.01,49.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_008,Mizoram District 8,Mizoram,MZ,Northeast,68.1,89.1,92.7,80.3,50.5,76.3,49.5,96.2,38.9,17.6,4.29,51.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_009,Mizoram District 9,Mizoram,MZ,Northeast,71.8,89.7,91.7,83.4,56.0,87.4,62.4,97.2,39.4,19.2,4.4,53.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_010,Mizoram District 10,Mizoram,MZ,Northeast,56.4,83.2,89.5,78.2,41.3,76.8,79.0,89.5,53.9,29.8,3.93,57.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+MZ_011,Mizoram District 11,Mizoram,MZ,Northeast,51.0,81.7,84.2,71.7,39.8,70.3,91.8,82.5,58.1,37.7,4.06,66.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_001,Nagaland District 1,Nagaland,NL,Northeast,10.0,39.1,44.9,27.6,8.5,41.9,174.9,69.8,93.9,46.9,2.79,80.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_002,Nagaland District 2,Nagaland,NL,Northeast,10.0,43.9,45.4,36.3,11.0,36.8,178.6,78.6,82.7,45.8,2.72,80.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_003,Nagaland District 3,Nagaland,NL,Northeast,19.8,45.7,56.0,42.0,21.7,44.9,141.1,83.1,66.5,22.9,2.72,56.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_004,Nagaland District 4,Nagaland,NL,Northeast,22.5,45.7,53.8,44.5,10.3,49.6,146.1,78.3,65.5,34.5,3.35,60.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_005,Nagaland District 5,Nagaland,NL,Northeast,10.2,38.9,51.1,32.7,12.9,36.2,179.7,80.0,77.8,38.4,2.41,70.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_006,Nagaland District 6,Nagaland,NL,Northeast,10.0,49.9,50.5,31.2,15.6,45.1,174.2,73.7,81.2,33.1,2.89,80.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_007,Nagaland District 7,Nagaland,NL,Northeast,22.2,47.5,50.1,42.1,10.0,39.6,169.5,79.9,72.3,41.5,2.86,65.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_008,Nagaland District 8,Nagaland,NL,Northeast,16.0,42.7,44.8,38.3,11.1,43.2,194.3,74.4,79.5,43.8,2.29,81.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_009,Nagaland District 9,Nagaland,NL,Northeast,10.0,39.5,50.8,33.0,10.1,44.9,193.3,70.3,84.0,50.1,3.42,74.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_010,Nagaland District 10,Nagaland,NL,Northeast,26.2,52.0,52.8,45.5,17.2,49.1,141.7,81.5,64.4,26.8,2.79,54.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_011,Nagaland District 11,Nagaland,NL,Northeast,17.6,39.5,49.1,40.3,9.7,49.2,176.6,80.7,81.4,35.1,2.86,70.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+NL_012,Nagaland District 12,Nagaland,NL,Northeast,24.4,51.7,55.7,43.8,19.8,48.3,154.7,88.1,69.2,28.3,3.01,55.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_001,Arunachal Pradesh District 1,Arunachal Pradesh,AR,Northeast,46.3,81.4,85.7,71.6,29.7,66.2,97.6,75.1,74.4,37.8,4.24,52.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_002,Arunachal Pradesh District 2,Arunachal Pradesh,AR,Northeast,54.9,85.1,87.8,76.9,32.8,68.7,124.7,80.3,67.6,33.8,3.22,39.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_003,Arunachal Pradesh District 3,Arunachal Pradesh,AR,Northeast,37.8,77.7,78.1,71.7,29.0,63.7,132.7,68.1,68.2,39.1,3.45,58.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_004,Arunachal Pradesh District 4,Arunachal Pradesh,AR,Northeast,37.1,78.7,81.0,62.1,28.2,55.7,157.1,65.6,87.0,47.8,4.19,66.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_005,Arunachal Pradesh District 5,Arunachal Pradesh,AR,Northeast,45.7,80.8,80.5,69.0,35.4,70.8,111.5,71.7,70.0,40.6,4.51,46.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_006,Arunachal Pradesh District 6,Arunachal Pradesh,AR,Northeast,41.1,78.1,81.9,74.4,33.8,64.9,124.7,73.4,74.0,41.4,4.03,58.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_007,Arunachal Pradesh District 7,Arunachal Pradesh,AR,Northeast,34.6,77.6,77.1,72.6,31.7,58.7,136.1,67.7,84.6,48.6,3.26,59.1,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_008,Arunachal Pradesh District 8,Arunachal Pradesh,AR,Northeast,44.5,77.7,84.5,67.6,34.6,70.8,100.9,71.6,67.7,43.9,3.73,49.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_009,Arunachal Pradesh District 9,Arunachal Pradesh,AR,Northeast,39.1,81.6,85.5,66.3,34.3,63.9,143.4,71.2,75.7,42.4,3.88,56.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_010,Arunachal Pradesh District 10,Arunachal Pradesh,AR,Northeast,38.0,85.5,79.4,67.0,31.7,65.7,147.1,66.9,70.3,44.4,2.94,55.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_011,Arunachal Pradesh District 11,Arunachal Pradesh,AR,Northeast,51.7,88.8,89.5,73.0,34.4,71.6,87.1,82.1,63.6,29.2,4.44,42.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_012,Arunachal Pradesh District 12,Arunachal Pradesh,AR,Northeast,39.4,78.9,83.8,64.7,24.8,66.4,144.1,70.8,83.8,52.1,3.78,58.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_013,Arunachal Pradesh District 13,Arunachal Pradesh,AR,Northeast,35.6,77.7,77.8,63.5,18.8,57.7,133.9,60.8,90.2,55.5,3.79,64.2,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_014,Arunachal Pradesh District 14,Arunachal Pradesh,AR,Northeast,57.7,86.4,88.0,78.7,49.9,75.3,125.4,76.9,58.2,35.8,3.36,38.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_015,Arunachal Pradesh District 15,Arunachal Pradesh,AR,Northeast,39.3,82.0,77.6,63.8,30.2,58.8,133.8,71.7,71.9,43.0,3.76,58.4,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_016,Arunachal Pradesh District 16,Arunachal Pradesh,AR,Northeast,42.5,86.4,84.7,72.3,37.0,63.9,98.1,74.9,71.2,37.8,4.15,48.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_017,Arunachal Pradesh District 17,Arunachal Pradesh,AR,Northeast,49.7,89.7,88.2,75.4,41.9,70.7,102.7,84.7,63.4,24.8,3.95,39.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_018,Arunachal Pradesh District 18,Arunachal Pradesh,AR,Northeast,54.8,87.2,88.8,75.7,33.3,75.4,82.4,76.5,63.6,33.8,3.41,42.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_019,Arunachal Pradesh District 19,Arunachal Pradesh,AR,Northeast,20.5,74.0,79.5,54.6,19.2,54.6,146.3,64.1,92.8,59.2,3.76,83.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_020,Arunachal Pradesh District 20,Arunachal Pradesh,AR,Northeast,37.1,76.9,82.3,68.6,27.6,54.8,153.0,70.6,74.4,50.5,4.29,42.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_021,Arunachal Pradesh District 21,Arunachal Pradesh,AR,Northeast,36.5,82.4,84.0,70.5,29.4,57.8,125.0,73.1,78.7,47.6,3.37,50.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_022,Arunachal Pradesh District 22,Arunachal Pradesh,AR,Northeast,39.1,81.2,85.6,64.5,28.1,64.0,160.8,68.9,84.4,46.6,4.8,53.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_023,Arunachal Pradesh District 23,Arunachal Pradesh,AR,Northeast,31.7,72.4,79.2,67.4,20.5,56.3,134.8,66.8,84.0,47.3,3.93,66.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_024,Arunachal Pradesh District 24,Arunachal Pradesh,AR,Northeast,42.0,82.2,84.4,72.3,34.6,64.8,147.2,73.5,79.6,33.2,4.17,61.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AR_025,Arunachal Pradesh District 25,Arunachal Pradesh,AR,Northeast,38.8,80.6,81.7,67.8,26.7,66.1,135.7,69.1,71.4,44.0,4.02,60.7,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AN_001,Andaman and Nicobar Islands District 1,Andaman and Nicobar Islands,AN,South,60.5,94.8,97.9,81.3,61.1,78.8,70.5,77.5,63.6,31.0,3.94,67.6,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AN_002,Andaman and Nicobar Islands District 2,Andaman and Nicobar Islands,AN,South,76.6,97.3,100.0,95.3,71.8,89.1,56.5,89.1,53.2,24.2,3.14,51.8,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+AN_003,Andaman and Nicobar Islands District 3,Andaman and Nicobar Islands,AN,South,79.8,100.0,100.0,97.3,71.5,93.1,11.8,95.6,57.6,15.0,2.89,39.3,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DNHDD_001,Dadra and Nagar Haveli and Daman and Diu District 1,Dadra and Nagar Haveli and Daman and Diu,DNHDD,West,63.6,96.0,98.7,85.7,50.9,75.9,54.2,81.4,46.6,27.5,2.21,52.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DNHDD_002,Dadra and Nagar Haveli and Daman and Diu District 2,Dadra and Nagar Haveli and Daman and Diu,DNHDD,West,54.9,91.0,88.7,77.4,40.7,66.6,92.4,79.2,53.4,29.9,2.71,71.5,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+DNHDD_003,Dadra and Nagar Haveli and Daman and Diu District 3,Dadra and Nagar Haveli and Daman and Diu,DNHDD,West,61.3,93.2,91.1,76.5,35.2,72.8,79.8,78.7,57.0,28.6,1.58,72.9,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
+LD_001,Lakshadweep District 1,Lakshadweep,LD,South,78.5,94.1,98.4,88.6,65.6,85.6,29.7,88.6,23.0,10.6,4.16,67.0,NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation,2019-2021,100.0
