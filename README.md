@@ -1,58 +1,77 @@
 # MaternaAI – Maternal Healthcare Accessibility & Predictive Analytics
+
 > **Tagline:** *Turning healthcare data into better maternal healthcare access.*
 
 ---
 
 > [!WARNING]
-> **Dataset Disclosure:** The bundled dataset (`datasets/demo/india_maternal_health_district_data.csv`) is a **Synthetic Demonstration Dataset** — a state-anchored NFHS-5 simulation generated programmatically. It does **not** contain actual district-level survey observations from NFHS-5, HMIS, or any other government source. All analytical results, ML metrics, and index scores computed from this dataset are **demonstration outputs only** and must not be interpreted as reflecting real maternal healthcare conditions across India. See [`docs/data_provenance.md`](docs/data_provenance.md) for full provenance documentation.
+> **Dataset Disclosure:** The bundled dataset (`datasets/demo/india_maternal_health_district_data.csv`) is a **Synthetic Demonstration Dataset**. It is documented as a state-anchored NFHS-5 simulation generated programmatically. It does **not** contain actual district-level survey observations from NFHS-5, HMIS, or any other government source.
+>
+> All analytical results, ML metrics, and accessibility scores computed using this dataset are demonstration outputs only. They must not be interpreted as representing actual maternal healthcare conditions across India.
+>
+> Refer to [`docs/data_provenance.md`](docs/data_provenance.md) for the documented generation methodology and dataset audit.
 
 ---
 
 ## 1. Project Overview & Vision
+
 **MaternaAI** is a data science and machine learning research platform focused on analyzing maternal healthcare accessibility and regional healthcare disparities across India.
 
-The platform ships with a **synthetic demonstration dataset** of 751 simulated district records across 36 States & Union Territories. District-level indicator values are generated via Gaussian noise around published **NFHS-5 (2019–2021)** state-level averages — they are not actual survey microdata. Users can upload authentic district-level CSV datasets through the Data Explorer for real analysis.
+The platform includes a **synthetic demonstration dataset** containing 751 simulated district records across 36 States and Union Territories. According to the documented generation methodology, district-level indicator values are generated using Gaussian noise around published NFHS-5 (2019–2021) state-level averages. These values are simulated and are not actual district-level survey observations.
 
-Through statistical modeling, unsupervised K-Means clustering, Random Forest regression, and geospatial choropleth mapping, MaternaAI enables researchers, demographers, and policymakers to discover where maternal healthcare services are insufficient and which structural factors correlate with service deficits.
+Users can also upload their own district-level CSV datasets through the Data Explorer. The platform validates uploaded files, but does not independently verify the authenticity or accuracy of their data sources.
 
-### Core Research Question:
+Through statistical analysis, K-Means clustering, Random Forest regression, and geospatial visualization, MaternaAI provides tools to explore regional disparities and examine how socioeconomic and healthcare infrastructure indicators relate to maternal healthcare coverage.
+
+### Core Research Question
+
 > *"Can machine learning and geospatial analytics identify regional disparities in maternal healthcare accessibility across India and help identify underserved regions?"*
 
-> **IMPORTANT SCIENTIFIC DISCLAIMER:**
-> This platform is an academic research and policy decision-support system, **NOT a clinical diagnosis application**. It does not predict individual pregnancy complications, prescribe treatments, or provide medical advice. All models are experimental and demographic in scope.
+> **Scientific Disclaimer:**
+> MaternaAI is an academic research and policy decision-support platform, **not a clinical diagnosis application**. It does not predict individual pregnancy complications, prescribe treatments, or provide medical advice. Its models are experimental and demographic in scope.
 
 ---
 
 ## 2. Key Features
 
-- **Executive Research Dashboard:** Dynamic KPI tracking across districts and states/UTs, service continuum disparity charts, and indicator correlation matrices. Displays synthetic/authentic dataset status prominently.
-- **India Healthcare Accessibility Map:** Interactive Leaflet choropleth visualization displaying state-level coverage with simplified boundary polygons.
+- **Executive Research Dashboard:** Displays district and state-level KPIs, maternal healthcare service coverage, disparity charts, and indicator correlation matrices. Dataset status is prominently displayed.
+
+- **India Healthcare Accessibility Map:** Interactive Leaflet choropleth visualization showing state-level healthcare coverage using simplified boundary polygons.
+
 - **Machine Learning Laboratory:**
-  - *Unsupervised K-Means Clustering:* Evaluates cluster validity via Silhouette scores ($k \in [2, 7]$), standardizes features with `StandardScaler`, and visualizes high-dimensional partitions using 2D Principal Component Analysis (PCA).
-  - *Supervised Regression (Random Forest & Linear Baseline):* Predicts regional coverage uptake (e.g., institutional delivery percentage) using socioeconomic determinants with 5-fold cross-validation, MAE, RMSE, and $R^2$ metrics. Train/test split is performed **before** imputation and scaling to prevent data leakage.
-  - *Explainability:* Quantifies feature importances while clearly distinguishing correlation from clinical causation.
-  - *Synthetic Data Labeling:* All ML metrics are tagged as "demonstration results" when computed from the synthetic dataset.
-- **MaternaAI Experimental Accessibility Index:** Transparent, user-configurable multi-criteria weighted scoring model with directionality correction and sensitivity analysis (±20% weight perturbation). Classifies districts into *High Accessibility*, *Moderate Accessibility*, *Vulnerable*, and *Critical Priority*.
-- **Data Explorer & Pipeline:** Ingests CSV files with validation (required columns, indicator checks, missing-value imputation tracking), profiles missing values and data types, searches and paginates through records, and exports cleaned CSV datasets.
-- **Empirical Research Insights:** Automatically derives deterministic statistical observations with confidence levels conditional on dataset type.
-- **Reproducible Research Notebooks:** 7 Jupyter research notebooks covering exploratory data analysis, cleaning, hypothesis testing, geospatial aggregation, clustering, modeling, and validation.
+  - **Unsupervised K-Means Clustering:** Evaluates cluster quality using Silhouette scores across \(k \in [2, 7]\), standardizes features using `StandardScaler`, and visualizes clusters through two-dimensional Principal Component Analysis (PCA).
+  - **Supervised Regression:** Uses Random Forest regression and a Linear Regression baseline to model institutional delivery percentage using socioeconomic and healthcare-related indicators.
+  - **Model Evaluation:** Reports MAE, RMSE, R², and 5-fold cross-validation results.
+  - **Feature Importance:** Examines the relative contribution of input features while distinguishing statistical association from causation.
+  - **Synthetic Data Labeling:** Identifies model metrics as demonstration results when generated using the bundled synthetic dataset.
+
+- **MaternaAI Experimental Accessibility Index:** A transparent, user-configurable weighted scoring model with directionality correction and sensitivity analysis using ±20% weight perturbations. Classifies districts into High Accessibility, Moderate Accessibility, Vulnerable, and Critical Priority categories.
+
+- **Data Explorer & Pipeline:** Supports CSV uploads with column validation, missing-value profiling, median imputation tracking, record search, pagination, and cleaned CSV exports.
+
+- **Research Insights:** Generates dataset-dependent statistical observations and highlights patterns in the available indicators. Insights derived from synthetic data are identified as demonstration outputs.
+
+- **Reproducible Research Notebooks:** Seven Jupyter notebooks covering exploratory data analysis, data cleaning, statistical analysis, geospatial analysis, clustering, predictive modeling, and model evaluation.
 
 ---
 
 ## 3. Technology Stack
 
-### Frontend:
+### Frontend
+
 - **Framework:** React 18, TypeScript, Vite
-- **Styling & Design System:** Tailwind CSS (custom scientific palette: Forest Green `#174C3C`, Sage `#A9C7B3`, Warm Ivory `#F8F7F2`, Coral `#E88D7D`, Lavender `#B8AED8`)
-- **Typography:** Plus Jakarta Sans (headings), Inter (interface body)
-- **Data Visualizations:** Recharts (Bar charts, Scatter plots, Pie charts, Heatmap breakdowns)
-- **Geospatial Mapping:** Leaflet & React Leaflet with India State GeoJSON (simplified polygons)
+- **Styling:** Tailwind CSS
+- **Design Palette:** Forest Green `#174C3C`, Sage `#A9C7B3`, Warm Ivory `#F8F7F2`, Coral `#E88D7D`, Lavender `#B8AED8`
+- **Typography:** Plus Jakarta Sans, Inter
+- **Data Visualization:** Recharts
+- **Geospatial Mapping:** Leaflet, React Leaflet, India State GeoJSON
 - **Routing & Icons:** React Router DOM v6, Lucide React
 
-### Backend:
-- **Framework:** Python 3.14 / FastAPI, Uvicorn
+### Backend
+
+- **Framework:** Python 3.14, FastAPI, Uvicorn
 - **Validation & Serialization:** Pydantic v2
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn, SciPy
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, SciPy
 - **Testing:** Pytest, HTTPX
 
 ---
@@ -62,17 +81,17 @@ Through statistical modeling, unsupervised K-Means clustering, Random Forest reg
 ```mermaid
 flowchart TD
     subgraph Data_Layer ["Data Sources"]
-        SYNTH["Synthetic Demo Dataset\n(State-Anchored NFHS-5 Simulation)"]
-        CSV_IN["User Custom CSV Upload\n(Authentic Data)"]
-        GEO["India States GeoJSON\n(Simplified Polygons)"]
+        SYNTH["Synthetic Demo Dataset<br/>(Documented NFHS-5 State-Anchored Simulation)"]
+        CSV_IN["User-Provided CSV Upload<br/>(Source Not Independently Verified)"]
+        GEO["India States GeoJSON<br/>(Simplified Polygons)"]
     end
 
     subgraph Backend_Core ["FastAPI Backend Services (Port 8000)"]
-        DS["DataService & Validation\n(Synthetic/Authentic Detection)"]
+        DS["Data Service & Validation<br/>(Dataset Classification)"]
         STAT["Descriptive & Correlation Analytics"]
-        INDEX["Accessibility Index Engine\n(Sensitivity Analysis)"]
+        INDEX["Accessibility Index Engine<br/>(Sensitivity Analysis)"]
         ML_CLUST["K-Means & PCA Engine"]
-        ML_REG["Random Forest & CV Evaluator\n(Leakage-Free Pipeline)"]
+        ML_REG["Random Forest & Regression Evaluation"]
         API["REST API Routers (/api/*)"]
     end
 
@@ -83,7 +102,7 @@ flowchart TD
         LAB["Machine Learning Lab"]
         ACCLAB["Accessibility Index Lab"]
         REG_COMP["Regional Comparison"]
-        INSIGHTS["Empirical Insights"]
+        INSIGHTS["Research Insights"]
     end
 
     SYNTH --> DS
@@ -113,7 +132,7 @@ flowchart TD
 
 ## 5. Dataset Provenance & Data Dictionary
 
-> **⚠ The bundled dataset is synthetic.** See [`docs/data_provenance.md`](docs/data_provenance.md) for complete generation methodology, audit results, and district-name coverage analysis.
+> **Important:** The bundled dataset is synthetic. Refer to [`docs/data_provenance.md`](docs/data_provenance.md) for the documented generation methodology, audit results, and district-name coverage analysis.
 
 ### Bundled Synthetic Demonstration Dataset
 
@@ -122,115 +141,165 @@ flowchart TD
 | **File** | `datasets/demo/india_maternal_health_district_data.csv` |
 | **Records** | 751 simulated district records |
 | **States/UTs** | 36 |
-| **Generation Method** | Gaussian noise around 36 state-level NFHS-5 baselines |
-| **Named Districts** | 152 (real names); 599 generic placeholders (e.g., "Tamil Nadu District 16") |
-| **Missing Values** | 0% (all values synthetically generated — unrealistic for real survey data) |
-| **Source Label in CSV** | `data_source` column reads "NFHS-5 (2019-21) / MoHFW HMIS Benchmark Curation" — this is a **misleading artifact** of the generation script, documented in data_provenance.md |
+| **Generation Method** | Documented Gaussian-noise simulation around state-level NFHS-5 baselines |
+| **Named Districts** | 152 real district names; 599 generic placeholders |
+| **Missing Values** | 0% (all values synthetically generated) |
+| **Data Type** | Synthetic demonstration data |
+
+The district names are used for demonstration purposes and should not be interpreted as evidence that the corresponding indicator values are actual district-level observations.
 
 ### Indicator Definitions
 
-| Indicator | Simulated Source Anchor | Description |
+| Indicator | Documented Reference Anchor | Description |
 |---|---|---|
-| `anc4_or_more_pct` | NFHS-5 state averages | % of mothers who received at least 4 antenatal checkups |
-| `institutional_delivery_pct` | NFHS-5 state averages | % of births delivered in a healthcare facility |
-| `skilled_birth_attendance_pct` | NFHS-5 state averages | % of births attended by skilled health personnel |
-| `postnatal_care_pct` | NFHS-5 state averages | % of mothers receiving postnatal care within 48h of birth |
-| `ifa_100_days_pct` | NFHS-5 state averages | % of mothers who consumed Iron Folic Acid for 100+ days |
-| `first_trimester_anc_pct` | NFHS-5 state averages | % of pregnancies registered in the first trimester |
-| `phc_chc_density_per_100k` | HMIS state estimates | Primary & Community Health Centres per 100,000 population |
-| `female_literacy_rate_pct` | Census/NFHS-5 estimates | Female literacy percentage |
-| `below_poverty_line_pct` | NITI Aayog MPI estimates | Multidimensional poverty headcount ratio |
+| `anc4_or_more_pct` | NFHS-5 state averages | Percentage of mothers who received at least four antenatal checkups |
+| `institutional_delivery_pct` | NFHS-5 state averages | Percentage of births delivered in a healthcare facility |
+| `skilled_birth_attendance_pct` | NFHS-5 state averages | Percentage of births attended by skilled health personnel |
+| `postnatal_care_pct` | NFHS-5 state averages | Percentage of mothers receiving postnatal care within 48 hours of birth |
+| `ifa_100_days_pct` | NFHS-5 state averages | Percentage of mothers who consumed Iron Folic Acid for 100 or more days |
+| `first_trimester_anc_pct` | NFHS-5 state averages | Percentage of pregnancies registered in the first trimester |
+| `phc_chc_density_per_100k` | HMIS reference estimates | Primary and Community Health Centres per 100,000 population |
+| `female_literacy_rate_pct` | Census/NFHS-5 reference estimates | Female literacy percentage |
+| `below_poverty_line_pct` | NITI Aayog MPI reference estimates | Multidimensional poverty headcount ratio |
 
-### Uploading Authentic Data
+These references describe the documented anchors for the synthetic generation process. They do not establish that the bundled district-level values were directly collected from those sources.
 
-Users can upload real district-level CSV data through the **Data Explorer** page. Uploaded files must include:
+### Uploading User-Provided Data
+
+Users can upload their own district-level CSV datasets through the **Data Explorer**.
+
+Uploaded files must include:
+
 - **Required column:** `state_name`
-- **At least one core indicator** from the list above
-- Missing values are imputed using column medians with full tracking
+- **At least one core indicator** from the indicator list above.
+- Missing values are handled through column-median imputation, with processing tracked by the platform.
+
+**Data authenticity:** Uploaded files are treated as user-provided datasets. MaternaAI validates their structure but does not independently verify their sources, accuracy, or authenticity. Users should provide appropriate source documentation when using external datasets for research.
 
 ---
 
 ## 6. Installation & Execution Guide
 
-### Prerequisites:
-- Python $\ge$ 3.10 (tested on Python 3.14)
-- Node.js $\ge$ 18 (tested on Node v24)
-- npm $\ge$ 9
+### Prerequisites
 
-### Step 1: Clone or Navigate to Project
+- Python 3.10 or higher (tested with Python 3.14)
+- Node.js 18 or higher (tested with Node.js v24)
+- npm 9 or higher
+- Git
+
+### Step 1: Clone the Repository
+
 ```bash
-cd D:\sem5\projects\MaternaAI
+git clone https://github.com/ritkritig/MaternaAI.git
+cd MaternaAI
 ```
 
+
 ### Step 2: Backend Setup
+
+Open a terminal in the project root:
+
 ```bash
 # Install Python dependencies
 pip install -r requirements.txt
 
-# Run automated tests (11 tests)
+# Run automated backend tests
 pytest tests/backend -v
 
-# Start the FastAPI backend server
+# Start the FastAPI backend
 python -m uvicorn app.main:app --app-dir backend --host 127.0.0.1 --port 8000 --reload
 ```
-*Backend Swagger Docs will be accessible at: `http://127.0.0.1:8000/docs`*
+
+Backend API documentation:
+
+`http://127.0.0.1:8000/docs`
 
 ### Step 3: Frontend Setup
+
+Open a **separate terminal** in the project root:
+
 ```bash
+# Navigate to frontend
 cd frontend
 
-# Install npm packages
+# Install dependencies
 npm install
 
-# Start Vite development server
+# Start the Vite development server
 npm run dev
 ```
-*Frontend interface will be live at: `http://localhost:5173`*
+
+Frontend interface:
+
+`http://localhost:5173`
 
 ---
 
 ## 7. Machine Learning Methodology & Metrics
 
-> **Note:** All metrics below were obtained from the **synthetic demonstration dataset**. Performance on authentic survey data may differ substantially due to the artificial inter-indicator correlation structure in the synthetic data.
+> **Note:** The bundled dataset is synthetic. All metrics generated using it are demonstration results. Performance on authentic district-level data may differ substantially because the simulated data contains artificial relationships between indicators.
 
-1. **Unsupervised K-Means Clustering:**
-   - **Preprocessing:** All indicators are scaled to zero mean and unit variance using `StandardScaler`.
-   - **Evaluation:** Evaluated using Silhouette Coefficient ($S = \frac{b - a}{\max(a, b)}$) across $k \in [2, 7]$.
-   - **Projection:** Visualized on the first two Principal Components.
-   - **Profiles:** Districts are segmented into descriptive coverage groups.
+### 1. Unsupervised K-Means Clustering
 
-2. **Supervised Random Forest Regressor:**
-   - **Objective:** Predict institutional delivery rate based on ANC visits, literacy, poverty, and facility density.
-   - **Pipeline Integrity:**
-     - 80/20 train/test split performed **before** imputation and scaling (no data leakage).
-     - `StandardScaler` fitted on training data only for fair Linear Regression comparison.
-     - 5-Fold Cross-Validation on training set only.
-   - **Demonstration Metrics (Synthetic Data):**
-     - These metrics are inflated by the shared latent development factor in the synthetic data generation.
-     - Actual performance on real district-level data would likely show lower R² and higher error.
-   - **Feature Importance:** Quantifies relative predictive contribution — correlation ≠ causation.
+- **Preprocessing:** Indicators are standardized using `StandardScaler`.
+- **Cluster Evaluation:** Silhouette Coefficient is evaluated across \(k \in [2, 7]\).
+- **Projection:** Cluster results are visualized using the first two Principal Components.
+- **Cluster Profiles:** District records are grouped into descriptive coverage categories.
+
+The Silhouette Coefficient is calculated as:
+
+\[
+S = \frac{b-a}{\max(a,b)}
+\]
+
+where \(a\) is the average intra-cluster distance and \(b\) is the average distance to the nearest neighboring cluster.
+
+### 2. Supervised Regression
+
+- **Objective:** Model institutional delivery percentage using indicators such as antenatal care coverage, female literacy, poverty, and healthcare facility density.
+- **Models:** Random Forest Regressor and Linear Regression baseline.
+- **Data Split:** An 80/20 train/test split is performed before preprocessing.
+- **Preprocessing:** Imputation and scaling are fitted using the training partition rather than the held-out test partition.
+- **Evaluation:** Reports MAE, RMSE, R², and 5-fold cross-validation results on the training partition.
+- **Feature Importance:** Examines relative predictive contributions. Feature importance does not establish causation.
+
+**Evaluation limitation:** Preprocessing should be fitted separately within each cross-validation fold using a Scikit-learn Pipeline to avoid information leakage between training and validation folds. A separate held-out test set is used for final evaluation.
+
+### Demonstration Metrics
+
+- Metrics obtained from the bundled synthetic dataset should not be treated as evidence of real-world predictive performance.
+- Artificial relationships introduced during synthetic data generation may inflate model performance.
+- Evaluation on independently sourced district-level data is necessary before drawing conclusions about generalizability.
 
 ---
 
-## 8. Research Limitations and Ethical Considerations
+## 8. Research Limitations & Ethical Considerations
 
-1. **Synthetic Demonstration Data:** The bundled dataset is entirely generated programmatically. No district-level values are actual survey observations. Results are suitable for demonstrating the platform's methodology, not for policy conclusions.
-2. **Non-Clinical Application:** The platform evaluates demographic coverage and structural disparities; it must never be used for individual clinical triage or obstetrical risk prediction.
-3. **Survey Temporality:** NFHS-5 benchmarks reflect the 2019–2021 survey period. Ongoing improvements through national missions (e.g., PM Surakshit Matritva Abhiyan) may yield higher contemporary uptake.
-4. **Statistical Association vs. Causation:** High regression weights for variables such as female literacy represent structural co-variation rather than immediate direct causation.
-5. **Data Privacy:** All records handled in this platform are aggregated at the district or state level with zero personal health information (PHI) or identifiable individual survey microdata.
-6. **GeoJSON Simplification:** State boundary polygons contain 7-9 vertices each (simplified approximations) — not official Survey of India boundaries. No district-level polygons are available.
+1. **Synthetic Demonstration Data:** The bundled dataset is generated programmatically. Its district-level values are not actual survey observations. Results demonstrate the platform's methodology and should not be used to make policy conclusions.
+
+2. **Non-Clinical Application:** MaternaAI explores demographic coverage and structural healthcare disparities. It is not designed for individual clinical triage, pregnancy risk prediction, or medical decision-making.
+
+3. **Survey Temporality:** NFHS-5 benchmarks correspond to the 2019–2021 survey period. They should not automatically be interpreted as representing current healthcare coverage.
+
+4. **Association vs. Causation:** Statistical relationships between variables such as female literacy, poverty, and institutional delivery do not establish direct causal relationships.
+
+5. **Data Privacy:** The bundled synthetic dataset contains no personal health information (PHI) or identifiable individual survey records. Users uploading external datasets are responsible for ensuring that they have the necessary permissions and that personal or sensitive information is appropriately anonymized.
+
+6. **GeoJSON Simplification:** State boundary polygons are simplified approximations containing approximately 7–9 vertices each. They are not official Survey of India boundaries. District-level polygons are not available in the bundled map data.
 
 ---
 
 ## 9. References & Data Citations
 
-> The references below describe the **government data sources** whose state-level published averages were used as anchors for the synthetic dataset generation. The bundled CSV does not contain data directly extracted from these sources.
+The following publications and sources describe the government and institutional datasets referenced in the documented synthetic data generation methodology. The bundled CSV does not contain district-level observations directly extracted from these sources.
 
-- **IIPS & MoHFW (2021):** *National Family Health Survey (NFHS-5), 2019-21: India Fact Sheet*, International Institute for Population Sciences, Mumbai. — State-level averages used as generation baselines.
-- **Ministry of Health and Family Welfare (MoHFW):** *Rural Health Statistics & HMIS Reports*, Government of India. — PHC/CHC density estimation reference.
-- **World Health Organization (WHO):** *Standards for Improving Quality of Maternal and Newborn Care in Health Facilities*, Geneva. — Methodological framework reference.
-- **NITI Aayog:** *National Multidimensional Poverty Index: A Progress Review 2023*, Government of India. — Poverty indicator baseline reference.
+- **IIPS & MoHFW (2021):** *National Family Health Survey (NFHS-5), 2019–21: India Fact Sheet.* International Institute for Population Sciences, Mumbai. Referenced for state-level maternal healthcare indicators.
+
+- **Ministry of Health and Family Welfare (MoHFW):** *Rural Health Statistics and HMIS Reports.* Government of India. Referenced for healthcare infrastructure indicators.
+
+- **World Health Organization (WHO):** *Standards for Improving Quality of Maternal and Newborn Care in Health Facilities.* Referenced for the maternal and newborn healthcare framework.
+
+- **NITI Aayog:** *National Multidimensional Poverty Index: A Progress Review 2023.* Government of India. Referenced for poverty-related indicators.
 
 ---
 
@@ -238,10 +307,11 @@ npm run dev
 
 | Document | Description |
 |---|---|
-| [`docs/data_provenance.md`](docs/data_provenance.md) | Complete dataset provenance: generation methodology, mathematical formulas, district-name audit, indicator attribution, and protocol for authentic data ingestion |
-| [`README.md`](README.md) | This file — project overview, architecture, installation, and limitations |
+| [`docs/data_provenance.md`](docs/data_provenance.md) | Dataset provenance, documented generation methodology, mathematical formulas, district-name audit, indicator attribution, and data ingestion protocol |
+| [`README.md`](README.md) | Project overview, features, architecture, installation instructions, and research limitations |
 
 ---
 
 ## 11. License
+
 A license has not yet been specified for this project. All rights reserved.
