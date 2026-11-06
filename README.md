@@ -244,4 +244,4 @@ npm run dev
 ---
 
 ## 11. License
-Academic and Educational Research License &ndash; MIT License &copy; 2026 MaternaAI Contributors.
+A license has not yet been specified for this project. All rights reserved.
